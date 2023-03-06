@@ -1,0 +1,46 @@
+[
+    {
+        "anno_attribute_id": 1,
+        "content": "file:///Users/purandhar/Downloads/Evaluation_of_Firefox_Browser_Forensics_Tools.pdf",
+        "dateAdded": 1677603723462000,
+        "expiration": 4,
+        "flags": 0,
+        "id": 1,
+        "lastModified": 1677603723462000,
+        "place_id": 38,
+        "type": 3
+    },
+    {
+        "anno_attribute_id": 2,
+        "content": "{\"state\":1,\"deleted\":false,\"endTime\":1677603725586,\"fileSize\":401407}",
+        "dateAdded": 1677603725607000,
+        "expiration": 4,
+        "flags": 0,
+        "id": 2,
+        "lastModified": 1677603725607000,
+        "place_id": 38,
+        "type": 3
+    },
+    {
+        "anno_attribute_id": 1,
+        "content": "file:///Users/purandhar/Downloads/DB.Browser.for.SQLite-arm64-3.12.2.dmg",
+        "dateAdded": 1678133792930000,
+        "expiration": 4,
+        "flags": 0,
+        "id": 3,
+        "lastModified": 1678133792930000,
+        "place_id": 113,
+        "type": 3
+    },
+    {
+        "anno_attribute_id": 2,
+        "content": "{\"state\":1,\"deleted\":false,\"endTime\":1678133824310,\"fileSize\":26445763}",
+        "dateAdded": 1678133824331000,
+        "expiration": 4,
+        "flags": 0,
+        "id": 4,
+        "lastModified": 1678133824331000,
+        "place_id": 113,
+        "type": 3
+    }
+]

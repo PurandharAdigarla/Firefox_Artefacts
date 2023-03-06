@@ -1,0 +1,83 @@
+[
+    {
+        "fieldname": "",
+        "firstUsed": null,
+        "guid": null,
+        "id": 0,
+        "lastUsed": null,
+        "timesUsed": null,
+        "value": ""
+    },
+    {
+        "fieldname": "email",
+        "firstUsed": "",
+        "guid": "",
+        "id": 1,
+        "lastUsed": "",
+        "timesUsed": "",
+        "value": ""
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1677597209477000,
+        "guid": "39hT+amhTcmvxD/d",
+        "id": 2,
+        "lastUsed": 1677597209477000,
+        "timesUsed": 1,
+        "value": "web forensics firefox mac"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1677597807179000,
+        "guid": "UmIu769sTs+mOVLT",
+        "id": 3,
+        "lastUsed": 1677597807179000,
+        "timesUsed": 1,
+        "value": "lpuli"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1677598087290000,
+        "guid": "T3XX1tQHT5K9qZoj",
+        "id": 4,
+        "lastUsed": 1677598087290000,
+        "timesUsed": 1,
+        "value": "extract addons, bookmarks, cookies, downloads, form fill- ups data, history from your browser +opensource"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1677604209070000,
+        "guid": "HkZqvek+T923rqBR",
+        "id": 5,
+        "lastUsed": 1677604209070000,
+        "timesUsed": 1,
+        "value": "FoxAnalysis "
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1677604339537000,
+        "guid": "BgSpVG/KSC2aqTVx",
+        "id": 6,
+        "lastUsed": 1677604339537000,
+        "timesUsed": 1,
+        "value": "firefox analytics debugger"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1678133570919000,
+        "guid": "pyXPxrt+R2qDZOmB",
+        "id": 7,
+        "lastUsed": 1678133570919000,
+        "timesUsed": 1,
+        "value": "how to open .sqlite file"
+    },
+    {
+        "fieldname": "",
+        "firstUsed": "",
+        "guid": "",
+        "id": 8,
+        "lastUsed": "",
+        "timesUsed": "",
+        "value": ""
+    }
+]
