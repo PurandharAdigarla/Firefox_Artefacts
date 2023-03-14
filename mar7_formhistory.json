@@ -1,21 +1,12 @@
 [
     {
-        "fieldname": "",
-        "firstUsed": null,
-        "guid": null,
-        "id": 0,
-        "lastUsed": null,
-        "timesUsed": null,
-        "value": ""
-    },
-    {
         "fieldname": "email",
-        "firstUsed": "",
-        "guid": "",
+        "firstUsed": 1677597117786000,
+        "guid": "XDwVTeVoSd617SwX",
         "id": 1,
-        "lastUsed": "",
-        "timesUsed": "",
-        "value": ""
+        "lastUsed": 1677597117786000,
+        "timesUsed": 1,
+        "value": "purandharptr@gmail.com"
     },
     {
         "fieldname": "searchbar-history",
@@ -72,12 +63,84 @@
         "value": "how to open .sqlite file"
     },
     {
-        "fieldname": "",
-        "firstUsed": "",
-        "guid": "",
+        "fieldname": "searchbar-history",
+        "firstUsed": 1678134139633000,
+        "guid": "pYGzN5GERfGI/+75",
         "id": 8,
-        "lastUsed": "",
-        "timesUsed": "",
-        "value": ""
+        "lastUsed": 1678134139633000,
+        "timesUsed": 1,
+        "value": "read sqlite file linux"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1678134455819000,
+        "guid": "YW7xkoyNRVCFDRek",
+        "id": 9,
+        "lastUsed": 1678134455819000,
+        "timesUsed": 1,
+        "value": "epoch converter"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1678135637681000,
+        "guid": "LBTs+RxkRpe+OGkh",
+        "id": 10,
+        "lastUsed": 1678135637681000,
+        "timesUsed": 1,
+        "value": "moz_annos"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1678136353819000,
+        "guid": "0K85vjp1QXyp7Kwu",
+        "id": 11,
+        "lastUsed": 1678136353819000,
+        "timesUsed": 1,
+        "value": "Applications/Firefox.app/Contents/Resources/browser/features/formautofill@mozilla.org.xpi"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1678702290869000,
+        "guid": "Wyaz6SgASq6AO850",
+        "id": 12,
+        "lastUsed": 1678702290869000,
+        "timesUsed": 1,
+        "value": "open source contribution"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1678702923160000,
+        "guid": "AE8FuIbCTySLNF2Z",
+        "id": 13,
+        "lastUsed": 1678702923160000,
+        "timesUsed": 1,
+        "value": "google summer of code"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1678703102630000,
+        "guid": "Fh5PBVgzRFmiv25Y",
+        "id": 14,
+        "lastUsed": 1678703102630000,
+        "timesUsed": 1,
+        "value": "full stack developer"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1678703605286000,
+        "guid": "FR38tMiGQAiHTX2Z",
+        "id": 15,
+        "lastUsed": 1678703605286000,
+        "timesUsed": 1,
+        "value": "upstop"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1678705218370000,
+        "guid": "hV1q5ra0QoSPMeFh",
+        "id": 16,
+        "lastUsed": 1678705218370000,
+        "timesUsed": 1,
+        "value": "single image super resolution"
     }
 ]
