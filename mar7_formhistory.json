@@ -139,8 +139,17 @@
         "firstUsed": 1678705218370000,
         "guid": "hV1q5ra0QoSPMeFh",
         "id": 16,
-        "lastUsed": 1678705218370000,
-        "timesUsed": 1,
+        "lastUsed": 1679669590881000,
+        "timesUsed": 2,
         "value": "single image super resolution"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1679669529379000,
+        "guid": "4P3fQmeSQg26peXj",
+        "id": 17,
+        "lastUsed": 1679669529379000,
+        "timesUsed": 1,
+        "value": "denoise of rgb images"
     }
 ]
