@@ -42,5 +42,27 @@
         "lastModified": 1678133824331000,
         "place_id": 113,
         "type": 3
+    },
+    {
+        "anno_attribute_id": 1,
+        "content": "file:///Users/purandhar/Downloads/generator.h5",
+        "dateAdded": 1679670695340000,
+        "expiration": 4,
+        "flags": 0,
+        "id": 5,
+        "lastModified": 1679670695340000,
+        "place_id": 194,
+        "type": 3
+    },
+    {
+        "anno_attribute_id": 2,
+        "content": "{\"state\":1,\"deleted\":false,\"endTime\":1679670698145,\"fileSize\":871328}",
+        "dateAdded": 1679670698163000,
+        "expiration": 4,
+        "flags": 0,
+        "id": 6,
+        "lastModified": 1679670698163000,
+        "place_id": 194,
+        "type": 3
     }
 ]
