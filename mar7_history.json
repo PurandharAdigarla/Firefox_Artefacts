@@ -2,7 +2,11 @@
     {
         "description": null,
         "foreign_count": 1,
+<<<<<<< HEAD
         "frecency": 68,
+=======
+        "frecency": 66,
+>>>>>>> local
         "guid": "Xpg1Zz10TYxR",
         "hidden": 0,
         "id": 1,
@@ -21,7 +25,11 @@
     {
         "description": null,
         "foreign_count": 1,
+<<<<<<< HEAD
         "frecency": 68,
+=======
+        "frecency": 66,
+>>>>>>> local
         "guid": "cv6huKrSQo6p",
         "hidden": 0,
         "id": 2,
@@ -40,7 +48,11 @@
     {
         "description": null,
         "foreign_count": 1,
+<<<<<<< HEAD
         "frecency": 68,
+=======
+        "frecency": 66,
+>>>>>>> local
         "guid": "QFFlU5x6bu6_",
         "hidden": 0,
         "id": 3,
@@ -59,7 +71,11 @@
     {
         "description": null,
         "foreign_count": 1,
+<<<<<<< HEAD
         "frecency": 68,
+=======
+        "frecency": 66,
+>>>>>>> local
         "guid": "Msp9rsjqDzjE",
         "hidden": 0,
         "id": 4,
@@ -78,7 +94,11 @@
     {
         "description": null,
         "foreign_count": 1,
+<<<<<<< HEAD
         "frecency": 68,
+=======
+        "frecency": 66,
+>>>>>>> local
         "guid": "B7pmRJG2TiH0",
         "hidden": 0,
         "id": 5,
@@ -116,7 +136,11 @@
     {
         "description": "\n  Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.\n",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "1MQEAvQ8A89z",
         "hidden": 0,
         "id": 7,
@@ -135,7 +159,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "HvADKZkTeGLM",
         "hidden": 0,
         "id": 8,
@@ -154,7 +182,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "7C5QnPT-0mAJ",
         "hidden": 0,
         "id": 9,
@@ -173,7 +205,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "PM5WXJ6fInHY",
         "hidden": 0,
         "id": 10,
@@ -192,7 +228,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "Cz0MG7VhsFoJ",
         "hidden": 0,
         "id": 11,
@@ -211,7 +251,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "vdyFFHB_3vIn",
         "hidden": 0,
         "id": 12,
@@ -230,7 +274,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "fwQ3TI6eXRIX",
         "hidden": 0,
         "id": 13,
@@ -249,7 +297,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "dGDr5hzGp935",
         "hidden": 0,
         "id": 14,
@@ -268,7 +320,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "-0vXLGT0XOcc",
         "hidden": 0,
         "id": 15,
@@ -287,7 +343,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "h_o3dN-h7xrV",
         "hidden": 0,
         "id": 16,
@@ -306,7 +366,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "2_HjRfccJ0Xk",
         "hidden": 0,
         "id": 17,
@@ -325,7 +389,11 @@
     {
         "description": "Firefox history is mainly stored within SQLite databases located in the Firefox profile folder. Browser History Examiner is a forensic software tool for extracting and viewing the Firefox SQLite databases.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "thhkFXpUcHSS",
         "hidden": 0,
         "id": 18,
@@ -344,7 +412,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "R8gx-mRHPYj9",
         "hidden": 0,
         "id": 19,
@@ -363,7 +435,11 @@
     {
         "description": "Microsoft released a new communication platform, Microsoft Teams, in 2017. Due in part to COVID-19, the popularity of communication platforms, like Microsoft Teams, increased exponentially. Given its...",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 56,
+=======
+        "frecency": 55,
+>>>>>>> local
         "guid": "f-23t2zTWpgb",
         "hidden": 0,
         "id": 20,
@@ -401,7 +477,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "RfLO9VTmsJb-",
         "hidden": 0,
         "id": 22,
@@ -420,7 +500,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "K_ymAQcIUogu",
         "hidden": 0,
         "id": 23,
@@ -439,7 +523,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "sh92GWa_cJF6",
         "hidden": 0,
         "id": 24,
@@ -458,7 +546,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "Z1Eqa5WLR5bR",
         "hidden": 0,
         "id": 25,
@@ -477,7 +569,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "cxgCawe-jSRn",
         "hidden": 0,
         "id": 26,
@@ -496,7 +592,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 172,
+=======
+        "frecency": 168,
+>>>>>>> local
         "guid": "scED-nOBV1rE",
         "hidden": 0,
         "id": 27,
@@ -515,7 +615,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "ojUo1qkTPtjp",
         "hidden": 0,
         "id": 28,
@@ -534,7 +638,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 88,
+=======
+        "frecency": 86,
+>>>>>>> local
         "guid": "6coGtsaUUj7D",
         "hidden": 0,
         "id": 29,
@@ -553,7 +661,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 172,
+=======
+        "frecency": 168,
+>>>>>>> local
         "guid": "IH8g4OWLzChN",
         "hidden": 0,
         "id": 30,
@@ -572,7 +684,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "pyYHlcp6yCZx",
         "hidden": 0,
         "id": 31,
@@ -591,7 +707,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "fnv4BG50HlJr",
         "hidden": 0,
         "id": 32,
@@ -610,7 +730,11 @@
     {
         "description": "Download xBrowserSync for Firefox. Browser syncing as it should be: secure, anonymous and free! Sync bookmarks across your browsers and devices, no sign up required.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "NjHYF5tgWs5P",
         "hidden": 0,
         "id": 33,
@@ -629,7 +753,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "dtFjBs_igZmc",
         "hidden": 0,
         "id": 34,
@@ -648,7 +776,11 @@
     {
         "description": "Introduction Browsers have become an inherent part of our virtual life and we all make use of browsers for surfing the internet in some or the other way.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 199,
+=======
+        "frecency": 194,
+>>>>>>> local
         "guid": "NYJMYJCQsSZ1",
         "hidden": 0,
         "id": 35,
@@ -667,7 +799,11 @@
     {
         "description": "PDF | Web browsers store web surfing data and history to facilitate the users ease of operation such as instant website recommendations or quicker... | Find, read and cite all the research you need on ResearchGate",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "ly2MEuutmzeV",
         "hidden": 0,
         "id": 36,
@@ -686,7 +822,11 @@
     {
         "description": "ResearchGate is a network dedicated to science and research. Connect, collaborate and discover scientific publications, jobs and conferences. All for free.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "UTSYDDp415Ps",
         "hidden": 0,
         "id": 37,
@@ -724,7 +864,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "fTV5JBd94iqU",
         "hidden": 0,
         "id": 39,
@@ -743,7 +887,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "ipycHXiyuT7_",
         "hidden": 0,
         "id": 40,
@@ -762,7 +910,11 @@
     {
         "description": "Back in 2011 we launched FoxAnalysis and ChromeAnalysis, our first commercial tools for analysing Firefox and Chrome internet history. As the majority of our customers are now using Browser History Examiner (BHE), we are retiring FoxAnalysis and ChromeAnal",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "mka-URU5T0iA",
         "hidden": 0,
         "id": 41,
@@ -781,7 +933,11 @@
     {
         "description": "Software tool enabling analysis of internet history data generated using Mozilla Firefox.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "UW7jqchRgtzf",
         "hidden": 0,
         "id": 42,
@@ -800,7 +956,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "YcUQGtJx-Y_M",
         "hidden": 0,
         "id": 43,
@@ -819,7 +979,11 @@
     {
         "description": "Download Google Analytics Debugger for Firefox. Prints useful information to the JavaScript console by enabling the debug version of the Google Analytics Javascript.\n\nP.S: this add-on is migrated from Chrome store.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "0p1bsbVo4tvn",
         "hidden": 0,
         "id": 44,
@@ -838,7 +1002,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "2l9gxjS4lOus",
         "hidden": 0,
         "id": 45,
@@ -857,7 +1025,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "gD43EoXgnubM",
         "hidden": 0,
         "id": 46,
@@ -876,7 +1048,11 @@
     {
         "description": "Download SEARCH Investigative and Forensic Toolbar for Firefox. This extension provides investigators and forensic examiners with links to investigative and forensic resources.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 176,
+=======
+        "frecency": 172,
+>>>>>>> local
         "guid": "23oV5nIccHZY",
         "hidden": 0,
         "id": 47,
@@ -895,7 +1071,11 @@
     {
         "description": "The ISP List is a database of Internet service and other online content providers that will help you get the information you need for your case. For each Internet Service Provider listed, you’ll find the legal contact information and instructions needed to",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "ZEng9uIXf7eX",
         "hidden": 0,
         "id": 48,
@@ -933,7 +1113,11 @@
     {
         "description": "Determines your IP address and shows information (host, location, whois) about any IP address entered. Looks up to 10 IP addresses at the same time",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "wkRSQGwp-xxl",
         "hidden": 0,
         "id": 50,
@@ -952,7 +1136,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "cSzC_ak4rEVh",
         "hidden": 0,
         "id": 51,
@@ -971,7 +1159,11 @@
     {
         "description": "Download Web Scraper for Firefox. Web Scraper is a website data extraction tool. You can create a sitemaps that map how the site should be navigated and from which elements data should be extracted. Then you can run the scraper in your browser and download",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "rDZpx4Rf8QFv",
         "hidden": 0,
         "id": 52,
@@ -990,7 +1182,11 @@
     {
         "description": "Download Forensics for Firefox. Splatter Analysis?",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "3Q7U9EDKkSyq",
         "hidden": 0,
         "id": 53,
@@ -1009,7 +1205,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "t0e1nLJxnl2M",
         "hidden": 0,
         "id": 54,
@@ -1028,7 +1228,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "ZyfE3xZQKs3i",
         "hidden": 0,
         "id": 55,
@@ -1047,7 +1251,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "_yoD3XSqhSMD",
         "hidden": 0,
         "id": 56,
@@ -1066,7 +1274,11 @@
     {
         "description": "Execute Mozilla Firefox Forensics following the simple manual procedures. Also, get an automated solution to perform Mozilla Firefox cache forensics.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "ByhOGIhM_joX",
         "hidden": 0,
         "id": 57,
@@ -1085,7 +1297,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "sGCoOTYP9TJG",
         "hidden": 0,
         "id": 58,
@@ -1104,7 +1320,11 @@
     {
         "description": "Google Scholar provides a simple way to broadly search for scholarly literature. Search across a wide variety of disciplines and sources: articles, theses, books, abstracts and court opinions.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "-h0-gGInCEF2",
         "hidden": 0,
         "id": 59,
@@ -1123,7 +1343,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "GV1XM0zs_p1U",
         "hidden": 0,
         "id": 60,
@@ -1142,7 +1366,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "RDAGUglkS7j_",
         "hidden": 0,
         "id": 61,
@@ -1161,7 +1389,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "iUV1-lrYGx-D",
         "hidden": 0,
         "id": 62,
@@ -1180,7 +1412,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "d3gvEfYxtOpM",
         "hidden": 0,
         "id": 63,
@@ -1199,7 +1435,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "iSb0Zx4Pu_nF",
         "hidden": 0,
         "id": 64,
@@ -1218,7 +1458,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "QIBqsmfYUBt3",
         "hidden": 0,
         "id": 65,
@@ -1237,7 +1481,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "48uoKkM3uxOb",
         "hidden": 0,
         "id": 66,
@@ -1256,7 +1504,11 @@
     {
         "description": "Conference Platform",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "EcqPo6JfGjFv",
         "hidden": 0,
         "id": 67,
@@ -1275,7 +1527,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "M3W7yc-Im0Z2",
         "hidden": 0,
         "id": 68,
@@ -1294,7 +1550,11 @@
     {
         "description": "Date: 17-20 September 2023 Location: Rome, Italy",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "PEUTtsvflWrs",
         "hidden": 0,
         "id": 69,
@@ -1332,7 +1592,11 @@
     {
         "description": "Sitemap for the primary IEEE.org portal, and links to sites across the IEEE web presence including Societies, Conferences, Standards, and Geographic sites.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "wAKnQm5vyZEw",
         "hidden": 0,
         "id": 71,
@@ -1351,7 +1615,11 @@
     {
         "description": "Machine Learning and Deep Learning Workshop a workshops by Indian Institute of Technology (IIT), Jodhpur open to All Apply online before 2023-01-04 00:00:00! | 2022",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 176,
+=======
+        "frecency": 172,
+>>>>>>> local
         "guid": "XXWsYQLjIeOB",
         "hidden": 0,
         "id": 72,
@@ -1370,7 +1638,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 216,
+=======
+        "frecency": 211,
+>>>>>>> local
         "guid": "JaPtIiEy3GfP",
         "hidden": 0,
         "id": 73,
@@ -1389,7 +1661,11 @@
     {
         "description": "Explore workshops & webinars for students & working professionals. Get the latest insights from experts in Digital Marketing, Finance, Entrepreneurship, HR, Operations, etc.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 154,
+=======
+        "frecency": 150,
+>>>>>>> local
         "guid": "vgD8bJF5q6UB",
         "hidden": 0,
         "id": 74,
@@ -1408,7 +1684,11 @@
     {
         "description": "Explore workshops & webinars for students & working professionals. Get the latest insights from experts in Digital Marketing, Finance, Entrepreneurship, HR, Operations, etc.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 154,
+=======
+        "frecency": 150,
+>>>>>>> local
         "guid": "U5BdoBJC2ygn",
         "hidden": 0,
         "id": 75,
@@ -1427,7 +1707,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "KwVBhyi0SGS3",
         "hidden": 0,
         "id": 76,
@@ -1446,7 +1730,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "xMBEq9zX-fvq",
         "hidden": 0,
         "id": 77,
@@ -1465,7 +1753,11 @@
     {
         "description": "Search for IEEE-sponsored conferences and meetings and access info on local IEEE meetings and events, conference organizational support and publications.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "zKlT0vKFF6hq",
         "hidden": 0,
         "id": 78,
@@ -1522,7 +1814,11 @@
     {
         "description": "Enabling the community of 5Mn students to learn, practice, & gain CV points by participating in hiring challenges, competitions, hackathons, & quizzes.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 334,
+=======
+        "frecency": 326,
+>>>>>>> local
         "guid": "9zZD69CNKryC",
         "hidden": 0,
         "id": 81,
@@ -1541,7 +1837,11 @@
     {
         "description": "Discover your next career move with the best job portal. Find part-time, full-time jobs & internships in Engineering, MBA, & Art streams. Explore now.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 154,
+=======
+        "frecency": 150,
+>>>>>>> local
         "guid": "ZnuBbR06W-Cp",
         "hidden": 0,
         "id": 82,
@@ -1560,7 +1860,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "M1hrlDMXqI8O",
         "hidden": 0,
         "id": 83,
@@ -1579,7 +1883,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 176,
+=======
+        "frecency": 172,
+>>>>>>> local
         "guid": "MgPaMdfqOrEl",
         "hidden": 0,
         "id": 84,
@@ -1597,15 +1905,20 @@
     },
     {
         "description": "Search for IEEE-sponsored conferences and meetings and access info on local IEEE meetings and events, conference organizational support and publications.",
+<<<<<<< HEAD
         "foreign_count": 0,
         "frecency": 216,
+=======
+        "foreign_count": 1,
+        "frecency": 211,
+>>>>>>> local
         "guid": "PwHcOt4Fpd72",
         "hidden": 0,
         "id": 85,
         "last_visit_date": 1678702264643835,
         "origin_id": 26,
         "preview_image_url": "https://conferences.ieee.org/conferences_events/conferences/assets/img/confsearchsocialmedia.jpg",
-        "recalc_frecency": 0,
+        "recalc_frecency": 1,
         "rev_host": "gro.eeei.secnerefnoc.",
         "site_name": null,
         "title": "Conferences Search",
@@ -1617,7 +1930,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "mMCqzMLm_JGO",
         "hidden": 0,
         "id": 86,
@@ -1636,7 +1953,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "VEFvUD6X4vkP",
         "hidden": 0,
         "id": 87,
@@ -1655,7 +1976,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "arv4_GDyxnOT",
         "hidden": 0,
         "id": 88,
@@ -1674,7 +1999,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "TM39UQJ3Q_oB",
         "hidden": 0,
         "id": 89,
@@ -1693,7 +2022,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "tHGiwHO9UpfE",
         "hidden": 0,
         "id": 90,
@@ -1712,7 +2045,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "Ytb2aIZwOTn3",
         "hidden": 0,
         "id": 91,
@@ -1731,7 +2068,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "NlyDhu0DkldC",
         "hidden": 0,
         "id": 92,
@@ -1750,7 +2091,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "v8r0XnVgspTG",
         "hidden": 0,
         "id": 93,
@@ -1769,7 +2114,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "Jv-Zw6Hd0Qop",
         "hidden": 1,
         "id": 94,
@@ -1788,7 +2137,11 @@
     {
         "description": "Sitemap for the primary IEEE.org portal, and links to sites across the IEEE web presence including Societies, Conferences, Standards, and Geographic sites.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 90,
+=======
+        "frecency": 88,
+>>>>>>> local
         "guid": "qJrMwLwQM0nb",
         "hidden": 0,
         "id": 95,
@@ -1806,12 +2159,17 @@
     },
     {
         "description": "🎓 MCSI Certified DFIR Specialist 🎓 🏫 👉 https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html💻🔎 MCSI Digital Forensics Lib...",
+<<<<<<< HEAD
         "foreign_count": 0,
         "frecency": 3796,
+=======
+        "foreign_count": 1,
+        "frecency": 4217,
+>>>>>>> local
         "guid": "KmgzvwpfJV10",
         "hidden": 0,
         "id": 96,
-        "last_visit_date": 1678134206747878,
+        "last_visit_date": 1679673748150184,
         "origin_id": 27,
         "preview_image_url": "https://i.ytimg.com/vi/RKgGa6Rc2N8/maxresdefault.jpg",
         "recalc_frecency": 0,
@@ -1821,12 +2179,16 @@
         "typed": 1,
         "url": "https://www.youtube.com/watch?v=RKgGa6Rc2N8",
         "url_hash": 47360286337260,
-        "visit_count": 4
+        "visit_count": 5
     },
     {
         "description": "🎓 MCSI Certified DFIR Specialist 🎓 🏫 👉 https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html💻🔎 MCSI Digital Forensics Lib...",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "2pJjRvWiycNC",
         "hidden": 0,
         "id": 97,
@@ -1845,7 +2207,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 21,
+=======
+        "frecency": 20,
+>>>>>>> local
         "guid": "VgoYRZPNHrLS",
         "hidden": 1,
         "id": 98,
@@ -1864,7 +2230,11 @@
     {
         "description": "Free Video Course: This video course provides an introduction to digital forensics. It covers the basics of what digital forensics is and how it can be used to investigate crimes. The course also c...",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "P_PmdO5-iTeh",
         "hidden": 0,
         "id": 99,
@@ -1883,7 +2253,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "_PQjnZgwHK81",
         "hidden": 0,
         "id": 100,
@@ -1902,7 +2276,11 @@
     {
         "description": "Free Video Course: This video course provides an introduction to digital forensics. It covers the basics of what digital forensics is and how it can be used to investigate crimes. The course also c...",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 180,
+=======
+        "frecency": 176,
+>>>>>>> local
         "guid": "x1O5AnMlPTUd",
         "hidden": 0,
         "id": 101,
@@ -1921,7 +2299,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 21,
+=======
+        "frecency": 20,
+>>>>>>> local
         "guid": "F_2J8qUgcQO9",
         "hidden": 1,
         "id": 102,
@@ -1940,7 +2322,11 @@
     {
         "description": "🎓 MCSI Certified DFIR Specialist 🎓 🏫 👉 https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html💻🔎 MCSI Digital Forensics Lib...",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "9zTm7q5rJVmm",
         "hidden": 0,
         "id": 103,
@@ -1959,7 +2345,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "fFRpiJPL9y4w",
         "hidden": 0,
         "id": 104,
@@ -1978,7 +2368,11 @@
     {
         "description": "I'm trying to open a .sqlite file on Windows, but I don't know how to. Do you know a good program for it?\n\nIt contains data for statistical analysis, but I prefer having a .txt file.\n\nI also have a .",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "C6WbWYgHYBXm",
         "hidden": 0,
         "id": 105,
@@ -1997,7 +2391,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "Yn1wQCaAc0Kr",
         "hidden": 0,
         "id": 106,
@@ -2016,11 +2414,19 @@
     {
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 2974,
         "guid": "64U_9a9gcokk",
         "hidden": 0,
         "id": 107,
         "last_visit_date": 1679669630123337,
+=======
+        "frecency": 3071,
+        "guid": "64U_9a9gcokk",
+        "hidden": 0,
+        "id": 107,
+        "last_visit_date": 1679673790221703,
+>>>>>>> local
         "origin_id": 27,
         "preview_image_url": "https://www.youtube.com/img/desktop/yt_1200.png",
         "recalc_frecency": 0,
@@ -2030,12 +2436,20 @@
         "typed": 1,
         "url": "https://www.youtube.com/",
         "url_hash": 47360296250519,
+<<<<<<< HEAD
         "visit_count": 3
+=======
+        "visit_count": 4
+>>>>>>> local
     },
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "2QZZcpknuTHR",
         "hidden": 0,
         "id": 108,
@@ -2054,7 +2468,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "XXcUbCUMSBTo",
         "hidden": 0,
         "id": 109,
@@ -2073,7 +2491,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 21,
+=======
+        "frecency": 20,
+>>>>>>> local
         "guid": "RdCeJTsbQbI9",
         "hidden": 1,
         "id": 110,
@@ -2092,7 +2514,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "9CLtXZ-ANSMv",
         "hidden": 0,
         "id": 111,
@@ -2111,7 +2537,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "PlcOudOt3J-D",
         "hidden": 0,
         "id": 112,
@@ -2149,7 +2579,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "PzmOO8VV8Acy",
         "hidden": 0,
         "id": 114,
@@ -2168,7 +2602,11 @@
     {
         "description": "I have installed the program sqlite in order to view file types with that extension, however even after reading its help documentation and its manpage, I am still confused about how I get it to sho...",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "BuMJwlo_WiZp",
         "hidden": 0,
         "id": 115,
@@ -2187,7 +2625,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "U6WUxVAThrEp",
         "hidden": 0,
         "id": 116,
@@ -2206,7 +2648,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "QIQBUmMhabbG",
         "hidden": 0,
         "id": 117,
@@ -2225,7 +2671,11 @@
     {
         "description": "Convert Unix Timestamps (and many other date formats) to regular dates.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "Zt8hrAXaxaA_",
         "hidden": 0,
         "id": 118,
@@ -2244,7 +2694,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "Ooenx6BuaUSM",
         "hidden": 0,
         "id": 119,
@@ -2263,7 +2717,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "rQ10EskNR6ab",
         "hidden": 0,
         "id": 120,
@@ -2282,7 +2740,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "OzrobpWLzfmz",
         "hidden": 0,
         "id": 121,
@@ -2301,7 +2763,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "tib4MEk_Nnjx",
         "hidden": 0,
         "id": 122,
@@ -2320,7 +2786,11 @@
     {
         "description": "Description of problem: Log2timline is missing file size for the Firefox Downloads. Source The places.sqlite file contains this data int the moz_annos table. Plaso version: 20190429 Operating syste...",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "gLtS7TZe6qDT",
         "hidden": 0,
         "id": 123,
@@ -2339,7 +2809,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "kjy5xJv0nmaH",
         "hidden": 0,
         "id": 124,
@@ -2358,7 +2832,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "i3QnPKLyqApv",
         "hidden": 0,
         "id": 125,
@@ -2377,7 +2855,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 362,
+=======
+        "frecency": 353,
+>>>>>>> local
         "guid": "fZCJsQsiyl4g",
         "hidden": 0,
         "id": 126,
@@ -2396,7 +2878,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "cb6a6TonmQXV",
         "hidden": 0,
         "id": 127,
@@ -2415,7 +2901,11 @@
     {
         "description": "Manage any SQLite database on your computer.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "OjptzHN0aNcD",
         "hidden": 0,
         "id": 128,
@@ -2434,7 +2924,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 113,
+=======
+        "frecency": 110,
+>>>>>>> local
         "guid": "__LW6zmtdHmx",
         "hidden": 1,
         "id": 129,
@@ -2453,7 +2947,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "eKkoNFCS1Y8h",
         "hidden": 0,
         "id": 130,
@@ -2472,7 +2970,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "PhWidoE4xI2e",
         "hidden": 0,
         "id": 131,
@@ -2491,7 +2993,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "EkVb7lYEyctu",
         "hidden": 0,
         "id": 132,
@@ -2510,7 +3016,11 @@
     {
         "description": "Download Autofill for Firefox. A form filler, form recovery, text snippets, and automation tool all in one.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "iUxlvWBso3Mh",
         "hidden": 0,
         "id": 133,
@@ -2529,7 +3039,11 @@
     {
         "description": "Download Firefox Extensions to add features that customize browsing. Protect passwords, find deals, enhance video, and block annoying ads with browser apps.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 180,
+=======
+        "frecency": 176,
+>>>>>>> local
         "guid": "9kY59-azCKlX",
         "hidden": 0,
         "id": 134,
@@ -2548,7 +3062,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "rQ2JDH1gptm2",
         "hidden": 0,
         "id": 135,
@@ -2567,7 +3085,11 @@
     {
         "description": "Download uBlock Origin for Firefox. Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 180,
+=======
+        "frecency": 176,
+>>>>>>> local
         "guid": "0fY9A70DqBF_",
         "hidden": 0,
         "id": 136,
@@ -2586,7 +3108,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "0-mKEJ95wLLM",
         "hidden": 0,
         "id": 137,
@@ -2605,7 +3131,11 @@
     {
         "description": "Download Dark Reader for Firefox. Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "L4MJZHoXFi0j",
         "hidden": 0,
         "id": 138,
@@ -2624,7 +3154,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "Aa7ePNc3iPET",
         "hidden": 0,
         "id": 139,
@@ -2643,7 +3177,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "GXSElRvlOgRp",
         "hidden": 0,
         "id": 140,
@@ -2662,7 +3200,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "n2aAWA0UHl8e",
         "hidden": 0,
         "id": 141,
@@ -2681,7 +3223,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "p1AqwtjgCVcF",
         "hidden": 0,
         "id": 142,
@@ -2700,7 +3246,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "YPAVOZa89B3h",
         "hidden": 0,
         "id": 143,
@@ -2719,7 +3269,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "MLfbrgZpj1Lh",
         "hidden": 0,
         "id": 144,
@@ -2738,7 +3292,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "0ka5f08qzSTx",
         "hidden": 1,
         "id": 145,
@@ -2757,7 +3315,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 21,
+=======
+        "frecency": 20,
+>>>>>>> local
         "guid": "j_3TWBM8WJsS",
         "hidden": 1,
         "id": 146,
@@ -2776,7 +3338,11 @@
     {
         "description": "Careers at Google - find a job at Google. Look inside engineering jobs at Google.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 46,
+=======
+        "frecency": 45,
+>>>>>>> local
         "guid": "WcPmQy5JT7jI",
         "hidden": 0,
         "id": 147,
@@ -2795,7 +3361,11 @@
     {
         "description": "Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "FapXb7Gqmq7H",
         "hidden": 0,
         "id": 148,
@@ -2814,7 +3384,11 @@
     {
         "description": "Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 180,
+=======
+        "frecency": 176,
+>>>>>>> local
         "guid": "4acy7hSlN8vD",
         "hidden": 0,
         "id": 149,
@@ -2833,7 +3407,11 @@
     {
         "description": "Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "Msl5MIFUu5m-",
         "hidden": 0,
         "id": 150,
@@ -2852,7 +3430,11 @@
     {
         "description": "Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "XZ7x53YdM-Wy",
         "hidden": 0,
         "id": 151,
@@ -2871,7 +3453,11 @@
     {
         "description": "Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "kI4nAagbcnLU",
         "hidden": 0,
         "id": 152,
@@ -2890,7 +3476,11 @@
     {
         "description": "Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "N4DqKhQps4g8",
         "hidden": 0,
         "id": 153,
@@ -2909,7 +3499,11 @@
     {
         "description": "Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "2Zub8Ua096CB",
         "hidden": 0,
         "id": 154,
@@ -2928,7 +3522,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "NXk2c6YKXAO3",
         "hidden": 0,
         "id": 155,
@@ -2947,7 +3545,11 @@
     {
         "description": "Cruddy Wi-Fi performance is frustrating, but so is spending money when you could improve your Wi-Fi without spending a dime. Here are ten tips to improve your Wi-Fi for free, plus three bonus tips for people with more room in their budgets.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "1K9lODHIjSIY",
         "hidden": 0,
         "id": 156,
@@ -2966,7 +3568,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "HUfkO6lOHQqD",
         "hidden": 0,
         "id": 157,
@@ -2985,7 +3591,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "1BlL8WtjjEjK",
         "hidden": 0,
         "id": 158,
@@ -3004,7 +3614,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "I2IC76DkAiME",
         "hidden": 0,
         "id": 159,
@@ -3023,7 +3637,11 @@
     {
         "description": "Participate in hiring challenges across multiple domains like IT, HR, Marketing, Data Science, UI/UX, etc. This is your chance to get hired by top companies/startups.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "EWu0FHlZLlrW",
         "hidden": 0,
         "id": 160,
@@ -3042,7 +3660,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 92,
+=======
+        "frecency": 90,
+>>>>>>> local
         "guid": "A0I9VdAgOLdw",
         "hidden": 0,
         "id": 161,
@@ -3061,7 +3683,11 @@
     {
         "description": "Login to Unstop using your email.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 180,
+=======
+        "frecency": 176,
+>>>>>>> local
         "guid": "_I_i4p73yPqa",
         "hidden": 0,
         "id": 162,
@@ -3080,7 +3706,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 21,
+=======
+        "frecency": 20,
+>>>>>>> local
         "guid": "YVqB-6LKX4mT",
         "hidden": 1,
         "id": 163,
@@ -3099,7 +3729,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 21,
+=======
+        "frecency": 20,
+>>>>>>> local
         "guid": "xuuMc4Yay7Zp",
         "hidden": 1,
         "id": 164,
@@ -3118,7 +3752,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 21,
+=======
+        "frecency": 20,
+>>>>>>> local
         "guid": "0OO9z0AXq9At",
         "hidden": 1,
         "id": 165,
@@ -3137,7 +3775,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 21,
+=======
+        "frecency": 20,
+>>>>>>> local
         "guid": "Ip6Ztut6FBn5",
         "hidden": 1,
         "id": 166,
@@ -3156,7 +3798,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 36,
+=======
+        "frecency": 35,
+>>>>>>> local
         "guid": "gV99l2LZ_EbB",
         "hidden": 0,
         "id": 167,
@@ -3175,7 +3821,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 166,
+=======
+        "frecency": 162,
+>>>>>>> local
         "guid": "Pn_wIwiV4tjP",
         "hidden": 0,
         "id": 168,
@@ -3194,7 +3844,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 22,
+=======
+        "frecency": 21,
+>>>>>>> local
         "guid": "lQFJPIrmrOkW",
         "hidden": 1,
         "id": 169,
@@ -3213,7 +3867,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 94,
+=======
+        "frecency": 92,
+>>>>>>> local
         "guid": "1VwHpTdqCeae",
         "hidden": 0,
         "id": 170,
@@ -3232,7 +3890,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 24,
+=======
+        "frecency": 23,
+>>>>>>> local
         "guid": "JEX4A9nHzGwW",
         "hidden": 1,
         "id": 171,
@@ -3251,7 +3913,11 @@
     {
         "description": "Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 98,
+=======
+        "frecency": 96,
+>>>>>>> local
         "guid": "AOXRBbZ8WAVr",
         "hidden": 0,
         "id": 172,
@@ -3270,7 +3936,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 98,
+=======
+        "frecency": 96,
+>>>>>>> local
         "guid": "hzQyp9B4E6y4",
         "hidden": 0,
         "id": 173,
@@ -3289,7 +3959,11 @@
     {
         "description": "This example shows how to remove Gaussian noise from an RGB image using a denoising convolutional neural network.",
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 98,
+=======
+        "frecency": 96,
+>>>>>>> local
         "guid": "tfI-aXSDvQzI",
         "hidden": 0,
         "id": 174,
@@ -3308,7 +3982,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 98,
+=======
+        "frecency": 96,
+>>>>>>> local
         "guid": "GWdYja6F1fQT",
         "hidden": 0,
         "id": 175,
@@ -3327,7 +4005,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 98,
+=======
+        "frecency": 96,
+>>>>>>> local
         "guid": "82gyyxrAU5A5",
         "hidden": 0,
         "id": 176,
@@ -3346,7 +4028,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 98,
+=======
+        "frecency": 96,
+>>>>>>> local
         "guid": "2W9KcCsN_JBn",
         "hidden": 0,
         "id": 177,
@@ -3365,7 +4051,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 98,
+=======
+        "frecency": 96,
+>>>>>>> local
         "guid": "iIhxPVYX0VHH",
         "hidden": 0,
         "id": 178,
@@ -3384,7 +4074,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 98,
+=======
+        "frecency": 96,
+>>>>>>> local
         "guid": "Rfr35KCp30Ud",
         "hidden": 0,
         "id": 179,
@@ -3403,7 +4097,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 98,
+=======
+        "frecency": 96,
+>>>>>>> local
         "guid": "2ZSeWl1ru644",
         "hidden": 0,
         "id": 180,
@@ -3422,7 +4120,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 100,
+=======
+        "frecency": 98,
+>>>>>>> local
         "guid": "1SpC1JqCSojr",
         "hidden": 0,
         "id": 181,
@@ -3441,7 +4143,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 100,
+=======
+        "frecency": 98,
+>>>>>>> local
         "guid": "APvvwP6lMIh2",
         "hidden": 0,
         "id": 182,
@@ -3460,7 +4166,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 200,
+=======
+        "frecency": 195,
+>>>>>>> local
         "guid": "QLG2jGbntNVg",
         "hidden": 0,
         "id": 183,
@@ -3479,7 +4189,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 100,
+=======
+        "frecency": 98,
+>>>>>>> local
         "guid": "QaN2HKv3eCih",
         "hidden": 0,
         "id": 184,
@@ -3498,7 +4212,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 100,
+=======
+        "frecency": 98,
+>>>>>>> local
         "guid": "txJlNMRTcaiu",
         "hidden": 0,
         "id": 185,
@@ -3517,7 +4235,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 100,
+=======
+        "frecency": 98,
+>>>>>>> local
         "guid": "daHnUIPVA91s",
         "hidden": 0,
         "id": 186,
@@ -3536,7 +4258,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 25,
+=======
+        "frecency": 24,
+>>>>>>> local
         "guid": "-HnGHF05c6LR",
         "hidden": 1,
         "id": 187,
@@ -3555,7 +4281,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 25,
+=======
+        "frecency": 24,
+>>>>>>> local
         "guid": "GS8sCBFuFlkJ",
         "hidden": 1,
         "id": 188,
@@ -3574,7 +4304,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 40,
+=======
+        "frecency": 39,
+>>>>>>> local
         "guid": "KPtWLxy2bIhO",
         "hidden": 0,
         "id": 189,
@@ -3593,7 +4327,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 100,
+=======
+        "frecency": 98,
+>>>>>>> local
         "guid": "weAJzALV0LUV",
         "hidden": 0,
         "id": 190,
@@ -3612,7 +4350,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 25,
+=======
+        "frecency": 24,
+>>>>>>> local
         "guid": "l3rJottUiZS_",
         "hidden": 1,
         "id": 191,
@@ -3631,7 +4373,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 25,
+=======
+        "frecency": 24,
+>>>>>>> local
         "guid": "MbFmcHkRIZO5",
         "hidden": 1,
         "id": 192,
@@ -3650,7 +4396,11 @@
     {
         "description": null,
         "foreign_count": 0,
+<<<<<<< HEAD
         "frecency": 25,
+=======
+        "frecency": 24,
+>>>>>>> local
         "guid": "6q_Dp0_6Y4Fs",
         "hidden": 1,
         "id": 193,
@@ -3664,6 +4414,199 @@
         "typed": 0,
         "url": "https://drive.google.com/nonceSigner?nonce=tjk1ir9mlfab0&continue=https://doc-10-a0-docs.googleusercontent.com/docs/securesc/ubd39slbu80ti0odtlufg2i3r1tvg550/r1j78mpu4tktlvmla50k8qrd9716h7tq/1679670675000/13859285068644888944/13591206886011172647Z/1iTP4SNaJj024zmYI1gBFQ7xAB_gkS7_9?e%3Ddownload%26uuid%3D82be2983-c1cc-4bf1-884d-1fe51d1bd53d&hash=i7pgf7r3tred7hgv83gvjm84cru0kb0b",
         "url_hash": 47357765341390,
+<<<<<<< HEAD
+=======
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 0,
+        "guid": "T9RYkDt4F3wz",
+        "hidden": 0,
+        "id": 194,
+        "last_visit_date": 1679670695206000,
+        "origin_id": 48,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.tnetnocresuelgoog.scod-0a-01-cod.",
+        "site_name": null,
+        "title": "generator.h5",
+        "typed": 0,
+        "url": "https://doc-10-a0-docs.googleusercontent.com/docs/securesc/ubd39slbu80ti0odtlufg2i3r1tvg550/r1j78mpu4tktlvmla50k8qrd9716h7tq/1679670675000/13859285068644888944/13591206886011172647Z/1iTP4SNaJj024zmYI1gBFQ7xAB_gkS7_9?e=download&uuid=82be2983-c1cc-4bf1-884d-1fe51d1bd53d&nonce=tjk1ir9mlfab0&user=13591206886011172647Z&hash=5c7n9pomeefn9n4u4i758j72qs257jhj",
+        "url_hash": 47357532450290,
+        "visit_count": 0
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 98,
+        "guid": "XVKKUftnlJQl",
+        "hidden": 0,
+        "id": 195,
+        "last_visit_date": 1680027158514939,
+        "origin_id": 4,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.www.",
+        "site_name": null,
+        "title": "sci hub - Google Search",
+        "typed": 1,
+        "url": "https://www.google.com/search?client=firefox-b-d&q=sci+hub",
+        "url_hash": 47357088916514,
+        "visit_count": 1
+    },
+    {
+        "description": "Sci-Hub website. Get free access to academic journals. Download research papers for free from ScienceDirect, IEEE, Wiley, Springer, Nature and others",
+        "foreign_count": 0,
+        "frecency": 200,
+        "guid": "SpXuWHOYK_5V",
+        "hidden": 0,
+        "id": 196,
+        "last_visit_date": 1680028377310779,
+        "origin_id": 49,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "es.buh-ics.",
+        "site_name": null,
+        "title": "Sci-Hub: knowledge belongs to all mankind",
+        "typed": 0,
+        "url": "https://sci-hub.se/",
+        "url_hash": 47356991601721,
+        "visit_count": 2
+    },
+    {
+        "description": null,
+        "foreign_count": 1,
+        "frecency": 200,
+        "guid": "xDaRQQ1_Gr9n",
+        "hidden": 0,
+        "id": 197,
+        "last_visit_date": 1680028460558543,
+        "origin_id": 49,
+        "preview_image_url": null,
+        "recalc_frecency": 1,
+        "rev_host": "es.buh-ics.",
+        "site_name": null,
+        "title": "Sci-Hub | Image inpainting based on deep learning: A review. Displays, 69, 102028 | 10.1016/j.displa.2021.102028",
+        "typed": 0,
+        "url": "https://sci-hub.se/10.1016/j.displa.2021.102028",
+        "url_hash": 47357215326881,
+        "visit_count": 2
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "nnXFL3VnymEw",
+        "hidden": 0,
+        "id": 198,
+        "last_visit_date": 1680027633494405,
+        "origin_id": 37,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "gro.redaerkrad.",
+        "site_name": null,
+        "title": "Thank you! Hope to see you again!",
+        "typed": 0,
+        "url": "https://darkreader.org/goodluck/",
+        "url_hash": 47357807975445,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "akaqlFuGeaKb",
+        "hidden": 0,
+        "id": 199,
+        "last_visit_date": 1680028367683450,
+        "origin_id": 49,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "es.buh-ics.",
+        "site_name": null,
+        "title": "Sci-Hub: article not found",
+        "typed": 0,
+        "url": "https://sci-hub.se/10.1016/j.patcog.2022.109046",
+        "url_hash": 47359825136362,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "gSRoKGtHZGtP",
+        "hidden": 0,
+        "id": 200,
+        "last_visit_date": 1680028442519479,
+        "origin_id": 49,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "es.buh-ics.",
+        "site_name": null,
+        "title": "Sci-Hub: article not found",
+        "typed": 0,
+        "url": "https://sci-hub.se/10.1016/j.apenergy.2022.119988",
+        "url_hash": 47359207195326,
+        "visit_count": 1
+    },
+    {
+        "description": "Download Firefox extensions and themes. They’re like apps for your browser. They can block annoying ads, protect passwords, change browser appearance, and more.",
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "-0VH-5OJmqhL",
+        "hidden": 0,
+        "id": 201,
+        "last_visit_date": 1680095346117531,
+        "origin_id": 9,
+        "preview_image_url": "https://addons.mozilla.org/static-frontend/b4ed07ea73fd9b86f6ace81025f9c6eb.png",
+        "recalc_frecency": 0,
+        "rev_host": "gro.allizom.snodda.",
+        "site_name": null,
+        "title": "Add-ons for Firefox (en-US)",
+        "typed": 0,
+        "url": "https://addons.mozilla.org/en-US/firefox/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=find-more-link-bottom",
+        "url_hash": 47358918813207,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "MvK-5CXqvozL",
+        "hidden": 0,
+        "id": 202,
+        "last_visit_date": 1680095356945488,
+        "origin_id": 9,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "gro.allizom.snodda.",
+        "site_name": null,
+        "title": "Recommended extensions – Add-ons for Firefox (en-US)",
+        "typed": 0,
+        "url": "https://addons.mozilla.org/en-US/firefox/search/?promoted=recommended&sort=random&type=extension",
+        "url_hash": 47359215655711,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "raoJAYTgAFyw",
+        "hidden": 0,
+        "id": 203,
+        "last_visit_date": 1680095361480189,
+        "origin_id": 9,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "gro.allizom.snodda.",
+        "site_name": null,
+        "title": null,
+        "typed": 0,
+        "url": "https://addons.mozilla.org/en-US/firefox/addon/automatic-dark/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=featured",
+        "url_hash": 47357321708306,
+>>>>>>> local
         "visit_count": 1
     }
 ]

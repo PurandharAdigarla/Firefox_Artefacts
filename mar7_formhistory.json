@@ -151,5 +151,17 @@
         "lastUsed": 1679669529379000,
         "timesUsed": 1,
         "value": "denoise of rgb images"
+<<<<<<< HEAD
+=======
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1680027158151000,
+        "guid": "H2Os2ifGRr+ujJ+W",
+        "id": 18,
+        "lastUsed": 1680027158151000,
+        "timesUsed": 1,
+        "value": "sci hub"
+>>>>>>> local
     }
 ]
