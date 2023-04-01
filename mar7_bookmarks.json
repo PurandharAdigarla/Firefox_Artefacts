@@ -6,7 +6,7 @@
         "guid": "root________",
         "id": 1,
         "keyword_id": null,
-        "lastModified": 1680095288813000,
+        "lastModified": 1680372134211000,
         "parent": 0,
         "position": 0,
         "syncChangeCounter": 1,
@@ -36,10 +36,10 @@
         "guid": "toolbar_____",
         "id": 3,
         "keyword_id": null,
-        "lastModified": 1680095288813000,
+        "lastModified": 1680372134211000,
         "parent": 1,
         "position": 1,
-        "syncChangeCounter": 0,
+        "syncChangeCounter": 1,
         "syncStatus": 2,
         "title": "toolbar",
         "type": 2
@@ -222,6 +222,21 @@
         "syncChangeCounter": 0,
         "syncStatus": 2,
         "title": "sci-hub ",
+        "type": 1
+    },
+    {
+        "dateAdded": 1680372134211000,
+        "fk": 35,
+        "folder_type": null,
+        "guid": "fCQun0OhT7ZB",
+        "id": 16,
+        "keyword_id": null,
+        "lastModified": 1680372134211000,
+        "parent": 3,
+        "position": 4,
+        "syncChangeCounter": 1,
+        "syncStatus": 1,
+        "title": "Browser Forensics: Firefox | Infosec Resources",
         "type": 1
     }
 ]

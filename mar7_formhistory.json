@@ -151,8 +151,6 @@
         "lastUsed": 1679669529379000,
         "timesUsed": 1,
         "value": "denoise of rgb images"
-<<<<<<< HEAD
-=======
     },
     {
         "fieldname": "searchbar-history",
@@ -162,6 +160,41 @@
         "lastUsed": 1680027158151000,
         "timesUsed": 1,
         "value": "sci hub"
->>>>>>> local
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1680118969325000,
+        "guid": "6k52XBZoQcOLA3US",
+        "id": 19,
+        "lastUsed": 1680118969325000,
+        "timesUsed": 1,
+        "value": "goo\\"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1680372050919000,
+        "guid": "ZzQwrbQvReuBW1te",
+        "id": 20,
+        "lastUsed": 1680372050919000,
+        "timesUsed": 1,
+        "value": "search something "
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1680372066900000,
+        "guid": "mXdhV943QXCUDKSx",
+        "id": 21,
+        "lastUsed": 1680372066900000,
+        "timesUsed": 1,
+        "value": "what am i searching for"
+    },
+    {
+        "fieldname": "searchbar-history",
+        "firstUsed": 1680372077968000,
+        "guid": "fIb+Y3hjTEmku4bT",
+        "id": 22,
+        "lastUsed": 1680372077968000,
+        "timesUsed": 1,
+        "value": "download"
     }
 ]

@@ -2,11 +2,7 @@
     {
         "description": null,
         "foreign_count": 1,
-<<<<<<< HEAD
-        "frecency": 68,
-=======
-        "frecency": 66,
->>>>>>> local
+        "frecency": 64,
         "guid": "Xpg1Zz10TYxR",
         "hidden": 0,
         "id": 1,
@@ -25,11 +21,7 @@
     {
         "description": null,
         "foreign_count": 1,
-<<<<<<< HEAD
-        "frecency": 68,
-=======
-        "frecency": 66,
->>>>>>> local
+        "frecency": 64,
         "guid": "cv6huKrSQo6p",
         "hidden": 0,
         "id": 2,
@@ -48,11 +40,7 @@
     {
         "description": null,
         "foreign_count": 1,
-<<<<<<< HEAD
-        "frecency": 68,
-=======
-        "frecency": 66,
->>>>>>> local
+        "frecency": 64,
         "guid": "QFFlU5x6bu6_",
         "hidden": 0,
         "id": 3,
@@ -71,11 +59,7 @@
     {
         "description": null,
         "foreign_count": 1,
-<<<<<<< HEAD
-        "frecency": 68,
-=======
-        "frecency": 66,
->>>>>>> local
+        "frecency": 64,
         "guid": "Msp9rsjqDzjE",
         "hidden": 0,
         "id": 4,
@@ -94,11 +78,7 @@
     {
         "description": null,
         "foreign_count": 1,
-<<<<<<< HEAD
-        "frecency": 68,
-=======
-        "frecency": 66,
->>>>>>> local
+        "frecency": 64,
         "guid": "B7pmRJG2TiH0",
         "hidden": 0,
         "id": 5,
@@ -136,11 +116,7 @@
     {
         "description": "\n  Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.\n",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "1MQEAvQ8A89z",
         "hidden": 0,
         "id": 7,
@@ -159,11 +135,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "HvADKZkTeGLM",
         "hidden": 0,
         "id": 8,
@@ -182,11 +154,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "7C5QnPT-0mAJ",
         "hidden": 0,
         "id": 9,
@@ -205,11 +173,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "PM5WXJ6fInHY",
         "hidden": 0,
         "id": 10,
@@ -228,11 +192,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "Cz0MG7VhsFoJ",
         "hidden": 0,
         "id": 11,
@@ -251,11 +211,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "vdyFFHB_3vIn",
         "hidden": 0,
         "id": 12,
@@ -274,11 +230,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "fwQ3TI6eXRIX",
         "hidden": 0,
         "id": 13,
@@ -297,11 +249,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "dGDr5hzGp935",
         "hidden": 0,
         "id": 14,
@@ -320,11 +268,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "-0vXLGT0XOcc",
         "hidden": 0,
         "id": 15,
@@ -343,11 +287,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "h_o3dN-h7xrV",
         "hidden": 0,
         "id": 16,
@@ -366,11 +306,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "2_HjRfccJ0Xk",
         "hidden": 0,
         "id": 17,
@@ -389,11 +325,7 @@
     {
         "description": "Firefox history is mainly stored within SQLite databases located in the Firefox profile folder. Browser History Examiner is a forensic software tool for extracting and viewing the Firefox SQLite databases.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "thhkFXpUcHSS",
         "hidden": 0,
         "id": 18,
@@ -412,11 +344,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "R8gx-mRHPYj9",
         "hidden": 0,
         "id": 19,
@@ -435,11 +363,7 @@
     {
         "description": "Microsoft released a new communication platform, Microsoft Teams, in 2017. Due in part to COVID-19, the popularity of communication platforms, like Microsoft Teams, increased exponentially. Given its...",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 56,
-=======
-        "frecency": 55,
->>>>>>> local
+        "frecency": 54,
         "guid": "f-23t2zTWpgb",
         "hidden": 0,
         "id": 20,
@@ -477,11 +401,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "RfLO9VTmsJb-",
         "hidden": 0,
         "id": 22,
@@ -500,11 +420,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "K_ymAQcIUogu",
         "hidden": 0,
         "id": 23,
@@ -523,11 +439,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "sh92GWa_cJF6",
         "hidden": 0,
         "id": 24,
@@ -546,11 +458,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "Z1Eqa5WLR5bR",
         "hidden": 0,
         "id": 25,
@@ -569,11 +477,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "cxgCawe-jSRn",
         "hidden": 0,
         "id": 26,
@@ -592,11 +496,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 172,
-=======
-        "frecency": 168,
->>>>>>> local
+        "frecency": 164,
         "guid": "scED-nOBV1rE",
         "hidden": 0,
         "id": 27,
@@ -615,11 +515,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "ojUo1qkTPtjp",
         "hidden": 0,
         "id": 28,
@@ -638,11 +534,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 88,
-=======
-        "frecency": 86,
->>>>>>> local
+        "frecency": 84,
         "guid": "6coGtsaUUj7D",
         "hidden": 0,
         "id": 29,
@@ -661,11 +553,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 172,
-=======
-        "frecency": 168,
->>>>>>> local
+        "frecency": 164,
         "guid": "IH8g4OWLzChN",
         "hidden": 0,
         "id": 30,
@@ -684,11 +572,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "pyYHlcp6yCZx",
         "hidden": 0,
         "id": 31,
@@ -707,11 +591,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "fnv4BG50HlJr",
         "hidden": 0,
         "id": 32,
@@ -730,11 +610,7 @@
     {
         "description": "Download xBrowserSync for Firefox. Browser syncing as it should be: secure, anonymous and free! Sync bookmarks across your browsers and devices, no sign up required.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "NjHYF5tgWs5P",
         "hidden": 0,
         "id": 33,
@@ -753,11 +629,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "dtFjBs_igZmc",
         "hidden": 0,
         "id": 34,
@@ -775,35 +647,27 @@
     },
     {
         "description": "Introduction Browsers have become an inherent part of our virtual life and we all make use of browsers for surfing the internet in some or the other way.",
-        "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 199,
-=======
-        "frecency": 194,
->>>>>>> local
+        "foreign_count": 1,
+        "frecency": 1672,
         "guid": "NYJMYJCQsSZ1",
         "hidden": 0,
         "id": 35,
-        "last_visit_date": 1677604798131346,
+        "last_visit_date": 1680372132166006,
         "origin_id": 10,
         "preview_image_url": "https://resources.infosecinstitute.com/wp-content/uploads/2021/01/bigstock-Legal-Expert-Explaining-Docume-322860070-copy-768x512.png",
-        "recalc_frecency": 0,
+        "recalc_frecency": 1,
         "rev_host": "moc.etutitsnicesofni.secruoser.",
         "site_name": null,
         "title": "Browser Forensics: Firefox | Infosec Resources",
-        "typed": 0,
+        "typed": 1,
         "url": "https://resources.infosecinstitute.com/topic/browser-forensics-firefox/",
         "url_hash": 47360247695169,
-        "visit_count": 3
+        "visit_count": 4
     },
     {
         "description": "PDF | Web browsers store web surfing data and history to facilitate the users ease of operation such as instant website recommendations or quicker... | Find, read and cite all the research you need on ResearchGate",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "ly2MEuutmzeV",
         "hidden": 0,
         "id": 36,
@@ -822,11 +686,7 @@
     {
         "description": "ResearchGate is a network dedicated to science and research. Connect, collaborate and discover scientific publications, jobs and conferences. All for free.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "UTSYDDp415Ps",
         "hidden": 0,
         "id": 37,
@@ -864,11 +724,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "fTV5JBd94iqU",
         "hidden": 0,
         "id": 39,
@@ -887,11 +743,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "ipycHXiyuT7_",
         "hidden": 0,
         "id": 40,
@@ -910,11 +762,7 @@
     {
         "description": "Back in 2011 we launched FoxAnalysis and ChromeAnalysis, our first commercial tools for analysing Firefox and Chrome internet history. As the majority of our customers are now using Browser History Examiner (BHE), we are retiring FoxAnalysis and ChromeAnal",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "mka-URU5T0iA",
         "hidden": 0,
         "id": 41,
@@ -933,11 +781,7 @@
     {
         "description": "Software tool enabling analysis of internet history data generated using Mozilla Firefox.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "UW7jqchRgtzf",
         "hidden": 0,
         "id": 42,
@@ -956,11 +800,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "YcUQGtJx-Y_M",
         "hidden": 0,
         "id": 43,
@@ -979,11 +819,7 @@
     {
         "description": "Download Google Analytics Debugger for Firefox. Prints useful information to the JavaScript console by enabling the debug version of the Google Analytics Javascript.\n\nP.S: this add-on is migrated from Chrome store.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "0p1bsbVo4tvn",
         "hidden": 0,
         "id": 44,
@@ -1002,11 +838,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "2l9gxjS4lOus",
         "hidden": 0,
         "id": 45,
@@ -1025,11 +857,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "gD43EoXgnubM",
         "hidden": 0,
         "id": 46,
@@ -1048,11 +876,7 @@
     {
         "description": "Download SEARCH Investigative and Forensic Toolbar for Firefox. This extension provides investigators and forensic examiners with links to investigative and forensic resources.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 176,
-=======
-        "frecency": 172,
->>>>>>> local
+        "frecency": 168,
         "guid": "23oV5nIccHZY",
         "hidden": 0,
         "id": 47,
@@ -1071,11 +895,7 @@
     {
         "description": "The ISP List is a database of Internet service and other online content providers that will help you get the information you need for your case. For each Internet Service Provider listed, you’ll find the legal contact information and instructions needed to",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "ZEng9uIXf7eX",
         "hidden": 0,
         "id": 48,
@@ -1113,11 +933,7 @@
     {
         "description": "Determines your IP address and shows information (host, location, whois) about any IP address entered. Looks up to 10 IP addresses at the same time",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "wkRSQGwp-xxl",
         "hidden": 0,
         "id": 50,
@@ -1136,11 +952,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "cSzC_ak4rEVh",
         "hidden": 0,
         "id": 51,
@@ -1159,11 +971,7 @@
     {
         "description": "Download Web Scraper for Firefox. Web Scraper is a website data extraction tool. You can create a sitemaps that map how the site should be navigated and from which elements data should be extracted. Then you can run the scraper in your browser and download",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "rDZpx4Rf8QFv",
         "hidden": 0,
         "id": 52,
@@ -1182,11 +990,7 @@
     {
         "description": "Download Forensics for Firefox. Splatter Analysis?",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "3Q7U9EDKkSyq",
         "hidden": 0,
         "id": 53,
@@ -1205,11 +1009,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "t0e1nLJxnl2M",
         "hidden": 0,
         "id": 54,
@@ -1228,11 +1028,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "ZyfE3xZQKs3i",
         "hidden": 0,
         "id": 55,
@@ -1251,11 +1047,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "_yoD3XSqhSMD",
         "hidden": 0,
         "id": 56,
@@ -1274,11 +1066,7 @@
     {
         "description": "Execute Mozilla Firefox Forensics following the simple manual procedures. Also, get an automated solution to perform Mozilla Firefox cache forensics.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "ByhOGIhM_joX",
         "hidden": 0,
         "id": 57,
@@ -1297,11 +1085,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "sGCoOTYP9TJG",
         "hidden": 0,
         "id": 58,
@@ -1320,11 +1104,7 @@
     {
         "description": "Google Scholar provides a simple way to broadly search for scholarly literature. Search across a wide variety of disciplines and sources: articles, theses, books, abstracts and court opinions.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "-h0-gGInCEF2",
         "hidden": 0,
         "id": 59,
@@ -1343,11 +1123,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "GV1XM0zs_p1U",
         "hidden": 0,
         "id": 60,
@@ -1366,11 +1142,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "RDAGUglkS7j_",
         "hidden": 0,
         "id": 61,
@@ -1389,11 +1161,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "iUV1-lrYGx-D",
         "hidden": 0,
         "id": 62,
@@ -1412,11 +1180,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "d3gvEfYxtOpM",
         "hidden": 0,
         "id": 63,
@@ -1435,11 +1199,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "iSb0Zx4Pu_nF",
         "hidden": 0,
         "id": 64,
@@ -1458,11 +1218,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "QIBqsmfYUBt3",
         "hidden": 0,
         "id": 65,
@@ -1481,11 +1237,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "48uoKkM3uxOb",
         "hidden": 0,
         "id": 66,
@@ -1504,11 +1256,7 @@
     {
         "description": "Conference Platform",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "EcqPo6JfGjFv",
         "hidden": 0,
         "id": 67,
@@ -1527,11 +1275,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "M3W7yc-Im0Z2",
         "hidden": 0,
         "id": 68,
@@ -1550,11 +1294,7 @@
     {
         "description": "Date: 17-20 September 2023 Location: Rome, Italy",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "PEUTtsvflWrs",
         "hidden": 0,
         "id": 69,
@@ -1592,11 +1332,7 @@
     {
         "description": "Sitemap for the primary IEEE.org portal, and links to sites across the IEEE web presence including Societies, Conferences, Standards, and Geographic sites.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "wAKnQm5vyZEw",
         "hidden": 0,
         "id": 71,
@@ -1615,11 +1351,7 @@
     {
         "description": "Machine Learning and Deep Learning Workshop a workshops by Indian Institute of Technology (IIT), Jodhpur open to All Apply online before 2023-01-04 00:00:00! | 2022",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 176,
-=======
-        "frecency": 172,
->>>>>>> local
+        "frecency": 168,
         "guid": "XXWsYQLjIeOB",
         "hidden": 0,
         "id": 72,
@@ -1638,11 +1370,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 216,
-=======
-        "frecency": 211,
->>>>>>> local
+        "frecency": 206,
         "guid": "JaPtIiEy3GfP",
         "hidden": 0,
         "id": 73,
@@ -1661,11 +1389,7 @@
     {
         "description": "Explore workshops & webinars for students & working professionals. Get the latest insights from experts in Digital Marketing, Finance, Entrepreneurship, HR, Operations, etc.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 154,
-=======
-        "frecency": 150,
->>>>>>> local
+        "frecency": 146,
         "guid": "vgD8bJF5q6UB",
         "hidden": 0,
         "id": 74,
@@ -1684,11 +1408,7 @@
     {
         "description": "Explore workshops & webinars for students & working professionals. Get the latest insights from experts in Digital Marketing, Finance, Entrepreneurship, HR, Operations, etc.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 154,
-=======
-        "frecency": 150,
->>>>>>> local
+        "frecency": 146,
         "guid": "U5BdoBJC2ygn",
         "hidden": 0,
         "id": 75,
@@ -1707,11 +1427,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "KwVBhyi0SGS3",
         "hidden": 0,
         "id": 76,
@@ -1730,11 +1446,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "xMBEq9zX-fvq",
         "hidden": 0,
         "id": 77,
@@ -1753,11 +1465,7 @@
     {
         "description": "Search for IEEE-sponsored conferences and meetings and access info on local IEEE meetings and events, conference organizational support and publications.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "zKlT0vKFF6hq",
         "hidden": 0,
         "id": 78,
@@ -1814,11 +1522,7 @@
     {
         "description": "Enabling the community of 5Mn students to learn, practice, & gain CV points by participating in hiring challenges, competitions, hackathons, & quizzes.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 334,
-=======
-        "frecency": 326,
->>>>>>> local
+        "frecency": 318,
         "guid": "9zZD69CNKryC",
         "hidden": 0,
         "id": 81,
@@ -1837,11 +1541,7 @@
     {
         "description": "Discover your next career move with the best job portal. Find part-time, full-time jobs & internships in Engineering, MBA, & Art streams. Explore now.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 154,
-=======
-        "frecency": 150,
->>>>>>> local
+        "frecency": 146,
         "guid": "ZnuBbR06W-Cp",
         "hidden": 0,
         "id": 82,
@@ -1860,11 +1560,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "M1hrlDMXqI8O",
         "hidden": 0,
         "id": 83,
@@ -1883,11 +1579,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 176,
-=======
-        "frecency": 172,
->>>>>>> local
+        "frecency": 168,
         "guid": "MgPaMdfqOrEl",
         "hidden": 0,
         "id": 84,
@@ -1905,20 +1597,15 @@
     },
     {
         "description": "Search for IEEE-sponsored conferences and meetings and access info on local IEEE meetings and events, conference organizational support and publications.",
-<<<<<<< HEAD
-        "foreign_count": 0,
-        "frecency": 216,
-=======
         "foreign_count": 1,
-        "frecency": 211,
->>>>>>> local
+        "frecency": 256,
         "guid": "PwHcOt4Fpd72",
         "hidden": 0,
         "id": 85,
         "last_visit_date": 1678702264643835,
         "origin_id": 26,
         "preview_image_url": "https://conferences.ieee.org/conferences_events/conferences/assets/img/confsearchsocialmedia.jpg",
-        "recalc_frecency": 1,
+        "recalc_frecency": 0,
         "rev_host": "gro.eeei.secnerefnoc.",
         "site_name": null,
         "title": "Conferences Search",
@@ -1930,11 +1617,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "mMCqzMLm_JGO",
         "hidden": 0,
         "id": 86,
@@ -1953,11 +1636,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "VEFvUD6X4vkP",
         "hidden": 0,
         "id": 87,
@@ -1976,11 +1655,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "arv4_GDyxnOT",
         "hidden": 0,
         "id": 88,
@@ -1999,11 +1674,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "TM39UQJ3Q_oB",
         "hidden": 0,
         "id": 89,
@@ -2022,11 +1693,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "tHGiwHO9UpfE",
         "hidden": 0,
         "id": 90,
@@ -2045,11 +1712,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "Ytb2aIZwOTn3",
         "hidden": 0,
         "id": 91,
@@ -2068,11 +1731,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "NlyDhu0DkldC",
         "hidden": 0,
         "id": 92,
@@ -2091,11 +1750,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "v8r0XnVgspTG",
         "hidden": 0,
         "id": 93,
@@ -2114,11 +1769,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "Jv-Zw6Hd0Qop",
         "hidden": 1,
         "id": 94,
@@ -2137,11 +1788,7 @@
     {
         "description": "Sitemap for the primary IEEE.org portal, and links to sites across the IEEE web presence including Societies, Conferences, Standards, and Geographic sites.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 90,
-=======
-        "frecency": 88,
->>>>>>> local
+        "frecency": 86,
         "guid": "qJrMwLwQM0nb",
         "hidden": 0,
         "id": 95,
@@ -2159,13 +1806,8 @@
     },
     {
         "description": "🎓 MCSI Certified DFIR Specialist 🎓 🏫 👉 https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html💻🔎 MCSI Digital Forensics Lib...",
-<<<<<<< HEAD
-        "foreign_count": 0,
-        "frecency": 3796,
-=======
         "foreign_count": 1,
-        "frecency": 4217,
->>>>>>> local
+        "frecency": 4112,
         "guid": "KmgzvwpfJV10",
         "hidden": 0,
         "id": 96,
@@ -2184,11 +1826,7 @@
     {
         "description": "🎓 MCSI Certified DFIR Specialist 🎓 🏫 👉 https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html💻🔎 MCSI Digital Forensics Lib...",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "2pJjRvWiycNC",
         "hidden": 0,
         "id": 97,
@@ -2207,11 +1845,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 21,
-=======
         "frecency": 20,
->>>>>>> local
         "guid": "VgoYRZPNHrLS",
         "hidden": 1,
         "id": 98,
@@ -2230,11 +1864,7 @@
     {
         "description": "Free Video Course: This video course provides an introduction to digital forensics. It covers the basics of what digital forensics is and how it can be used to investigate crimes. The course also c...",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "P_PmdO5-iTeh",
         "hidden": 0,
         "id": 99,
@@ -2253,11 +1883,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "_PQjnZgwHK81",
         "hidden": 0,
         "id": 100,
@@ -2276,11 +1902,7 @@
     {
         "description": "Free Video Course: This video course provides an introduction to digital forensics. It covers the basics of what digital forensics is and how it can be used to investigate crimes. The course also c...",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 180,
-=======
-        "frecency": 176,
->>>>>>> local
+        "frecency": 172,
         "guid": "x1O5AnMlPTUd",
         "hidden": 0,
         "id": 101,
@@ -2299,11 +1921,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 21,
-=======
         "frecency": 20,
->>>>>>> local
         "guid": "F_2J8qUgcQO9",
         "hidden": 1,
         "id": 102,
@@ -2322,11 +1940,7 @@
     {
         "description": "🎓 MCSI Certified DFIR Specialist 🎓 🏫 👉 https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html💻🔎 MCSI Digital Forensics Lib...",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "9zTm7q5rJVmm",
         "hidden": 0,
         "id": 103,
@@ -2345,11 +1959,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "fFRpiJPL9y4w",
         "hidden": 0,
         "id": 104,
@@ -2368,11 +1978,7 @@
     {
         "description": "I'm trying to open a .sqlite file on Windows, but I don't know how to. Do you know a good program for it?\n\nIt contains data for statistical analysis, but I prefer having a .txt file.\n\nI also have a .",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "C6WbWYgHYBXm",
         "hidden": 0,
         "id": 105,
@@ -2391,11 +1997,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "Yn1wQCaAc0Kr",
         "hidden": 0,
         "id": 106,
@@ -2414,19 +2016,11 @@
     {
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 2974,
-        "guid": "64U_9a9gcokk",
-        "hidden": 0,
-        "id": 107,
-        "last_visit_date": 1679669630123337,
-=======
-        "frecency": 3071,
+        "frecency": 2994,
         "guid": "64U_9a9gcokk",
         "hidden": 0,
         "id": 107,
         "last_visit_date": 1679673790221703,
->>>>>>> local
         "origin_id": 27,
         "preview_image_url": "https://www.youtube.com/img/desktop/yt_1200.png",
         "recalc_frecency": 0,
@@ -2436,20 +2030,12 @@
         "typed": 1,
         "url": "https://www.youtube.com/",
         "url_hash": 47360296250519,
-<<<<<<< HEAD
-        "visit_count": 3
-=======
         "visit_count": 4
->>>>>>> local
     },
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "2QZZcpknuTHR",
         "hidden": 0,
         "id": 108,
@@ -2468,11 +2054,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "XXcUbCUMSBTo",
         "hidden": 0,
         "id": 109,
@@ -2491,11 +2073,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 21,
-=======
         "frecency": 20,
->>>>>>> local
         "guid": "RdCeJTsbQbI9",
         "hidden": 1,
         "id": 110,
@@ -2514,11 +2092,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "9CLtXZ-ANSMv",
         "hidden": 0,
         "id": 111,
@@ -2537,11 +2111,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "PlcOudOt3J-D",
         "hidden": 0,
         "id": 112,
@@ -2579,11 +2149,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "PzmOO8VV8Acy",
         "hidden": 0,
         "id": 114,
@@ -2602,11 +2168,7 @@
     {
         "description": "I have installed the program sqlite in order to view file types with that extension, however even after reading its help documentation and its manpage, I am still confused about how I get it to sho...",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "BuMJwlo_WiZp",
         "hidden": 0,
         "id": 115,
@@ -2625,11 +2187,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "U6WUxVAThrEp",
         "hidden": 0,
         "id": 116,
@@ -2648,11 +2206,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "QIQBUmMhabbG",
         "hidden": 0,
         "id": 117,
@@ -2671,11 +2225,7 @@
     {
         "description": "Convert Unix Timestamps (and many other date formats) to regular dates.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "Zt8hrAXaxaA_",
         "hidden": 0,
         "id": 118,
@@ -2694,11 +2244,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "Ooenx6BuaUSM",
         "hidden": 0,
         "id": 119,
@@ -2717,11 +2263,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "rQ10EskNR6ab",
         "hidden": 0,
         "id": 120,
@@ -2740,11 +2282,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "OzrobpWLzfmz",
         "hidden": 0,
         "id": 121,
@@ -2763,11 +2301,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "tib4MEk_Nnjx",
         "hidden": 0,
         "id": 122,
@@ -2786,11 +2320,7 @@
     {
         "description": "Description of problem: Log2timline is missing file size for the Firefox Downloads. Source The places.sqlite file contains this data int the moz_annos table. Plaso version: 20190429 Operating syste...",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "gLtS7TZe6qDT",
         "hidden": 0,
         "id": 123,
@@ -2809,11 +2339,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "kjy5xJv0nmaH",
         "hidden": 0,
         "id": 124,
@@ -2832,11 +2358,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "i3QnPKLyqApv",
         "hidden": 0,
         "id": 125,
@@ -2855,15 +2377,11 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 362,
-=======
-        "frecency": 353,
->>>>>>> local
+        "frecency": 300,
         "guid": "fZCJsQsiyl4g",
         "hidden": 0,
         "id": 126,
-        "last_visit_date": 1678136913292848,
+        "last_visit_date": 1680372030048577,
         "origin_id": 12,
         "preview_image_url": null,
         "recalc_frecency": 0,
@@ -2873,16 +2391,12 @@
         "typed": 0,
         "url": "file:///Users/purandhar/Library/Application%20Support/Firefox/Profiles/30b6687o.default-release/extensions.json",
         "url_hash": 219668504445498,
-        "visit_count": 4
+        "visit_count": 5
     },
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "cb6a6TonmQXV",
         "hidden": 0,
         "id": 127,
@@ -2901,11 +2415,7 @@
     {
         "description": "Manage any SQLite database on your computer.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "OjptzHN0aNcD",
         "hidden": 0,
         "id": 128,
@@ -2924,11 +2434,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 113,
-=======
-        "frecency": 110,
->>>>>>> local
+        "frecency": 107,
         "guid": "__LW6zmtdHmx",
         "hidden": 1,
         "id": 129,
@@ -2947,11 +2453,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "eKkoNFCS1Y8h",
         "hidden": 0,
         "id": 130,
@@ -2970,11 +2472,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "PhWidoE4xI2e",
         "hidden": 0,
         "id": 131,
@@ -2993,11 +2491,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "EkVb7lYEyctu",
         "hidden": 0,
         "id": 132,
@@ -3016,11 +2510,7 @@
     {
         "description": "Download Autofill for Firefox. A form filler, form recovery, text snippets, and automation tool all in one.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "iUxlvWBso3Mh",
         "hidden": 0,
         "id": 133,
@@ -3039,11 +2529,7 @@
     {
         "description": "Download Firefox Extensions to add features that customize browsing. Protect passwords, find deals, enhance video, and block annoying ads with browser apps.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 180,
-=======
-        "frecency": 176,
->>>>>>> local
+        "frecency": 172,
         "guid": "9kY59-azCKlX",
         "hidden": 0,
         "id": 134,
@@ -3062,11 +2548,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "rQ2JDH1gptm2",
         "hidden": 0,
         "id": 135,
@@ -3085,11 +2567,7 @@
     {
         "description": "Download uBlock Origin for Firefox. Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 180,
-=======
-        "frecency": 176,
->>>>>>> local
+        "frecency": 172,
         "guid": "0fY9A70DqBF_",
         "hidden": 0,
         "id": 136,
@@ -3108,11 +2586,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "0-mKEJ95wLLM",
         "hidden": 0,
         "id": 137,
@@ -3131,11 +2605,7 @@
     {
         "description": "Download Dark Reader for Firefox. Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "L4MJZHoXFi0j",
         "hidden": 0,
         "id": 138,
@@ -3154,11 +2624,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "Aa7ePNc3iPET",
         "hidden": 0,
         "id": 139,
@@ -3177,11 +2643,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "GXSElRvlOgRp",
         "hidden": 0,
         "id": 140,
@@ -3200,11 +2662,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "n2aAWA0UHl8e",
         "hidden": 0,
         "id": 141,
@@ -3223,11 +2681,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "p1AqwtjgCVcF",
         "hidden": 0,
         "id": 142,
@@ -3246,11 +2700,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "YPAVOZa89B3h",
         "hidden": 0,
         "id": 143,
@@ -3269,11 +2719,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "MLfbrgZpj1Lh",
         "hidden": 0,
         "id": 144,
@@ -3292,11 +2738,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "0ka5f08qzSTx",
         "hidden": 1,
         "id": 145,
@@ -3315,11 +2757,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 21,
-=======
         "frecency": 20,
->>>>>>> local
         "guid": "j_3TWBM8WJsS",
         "hidden": 1,
         "id": 146,
@@ -3338,11 +2776,7 @@
     {
         "description": "Careers at Google - find a job at Google. Look inside engineering jobs at Google.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 46,
-=======
-        "frecency": 45,
->>>>>>> local
+        "frecency": 44,
         "guid": "WcPmQy5JT7jI",
         "hidden": 0,
         "id": 147,
@@ -3361,11 +2795,7 @@
     {
         "description": "Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "FapXb7Gqmq7H",
         "hidden": 0,
         "id": 148,
@@ -3384,11 +2814,7 @@
     {
         "description": "Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 180,
-=======
-        "frecency": 176,
->>>>>>> local
+        "frecency": 172,
         "guid": "4acy7hSlN8vD",
         "hidden": 0,
         "id": 149,
@@ -3407,11 +2833,7 @@
     {
         "description": "Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "Msl5MIFUu5m-",
         "hidden": 0,
         "id": 150,
@@ -3430,11 +2852,7 @@
     {
         "description": "Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "XZ7x53YdM-Wy",
         "hidden": 0,
         "id": 151,
@@ -3453,11 +2871,7 @@
     {
         "description": "Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "kI4nAagbcnLU",
         "hidden": 0,
         "id": 152,
@@ -3476,11 +2890,7 @@
     {
         "description": "Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "N4DqKhQps4g8",
         "hidden": 0,
         "id": 153,
@@ -3499,11 +2909,7 @@
     {
         "description": "Search, find and apply to job opportunities at Google. Bring your insight, imagination and healthy disregard for the impossible. Together, we can build for e...",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "2Zub8Ua096CB",
         "hidden": 0,
         "id": 154,
@@ -3522,11 +2928,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "NXk2c6YKXAO3",
         "hidden": 0,
         "id": 155,
@@ -3545,11 +2947,7 @@
     {
         "description": "Cruddy Wi-Fi performance is frustrating, but so is spending money when you could improve your Wi-Fi without spending a dime. Here are ten tips to improve your Wi-Fi for free, plus three bonus tips for people with more room in their budgets.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "1K9lODHIjSIY",
         "hidden": 0,
         "id": 156,
@@ -3568,11 +2966,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "HUfkO6lOHQqD",
         "hidden": 0,
         "id": 157,
@@ -3591,11 +2985,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "1BlL8WtjjEjK",
         "hidden": 0,
         "id": 158,
@@ -3614,11 +3004,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "I2IC76DkAiME",
         "hidden": 0,
         "id": 159,
@@ -3637,11 +3023,7 @@
     {
         "description": "Participate in hiring challenges across multiple domains like IT, HR, Marketing, Data Science, UI/UX, etc. This is your chance to get hired by top companies/startups.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "EWu0FHlZLlrW",
         "hidden": 0,
         "id": 160,
@@ -3660,11 +3042,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 92,
-=======
-        "frecency": 90,
->>>>>>> local
+        "frecency": 88,
         "guid": "A0I9VdAgOLdw",
         "hidden": 0,
         "id": 161,
@@ -3683,11 +3061,7 @@
     {
         "description": "Login to Unstop using your email.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 180,
-=======
-        "frecency": 176,
->>>>>>> local
+        "frecency": 172,
         "guid": "_I_i4p73yPqa",
         "hidden": 0,
         "id": 162,
@@ -3706,11 +3080,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 21,
-=======
         "frecency": 20,
->>>>>>> local
         "guid": "YVqB-6LKX4mT",
         "hidden": 1,
         "id": 163,
@@ -3729,11 +3099,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 21,
-=======
         "frecency": 20,
->>>>>>> local
         "guid": "xuuMc4Yay7Zp",
         "hidden": 1,
         "id": 164,
@@ -3752,11 +3118,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 21,
-=======
         "frecency": 20,
->>>>>>> local
         "guid": "0OO9z0AXq9At",
         "hidden": 1,
         "id": 165,
@@ -3775,11 +3137,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 21,
-=======
         "frecency": 20,
->>>>>>> local
         "guid": "Ip6Ztut6FBn5",
         "hidden": 1,
         "id": 166,
@@ -3798,11 +3156,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 36,
-=======
-        "frecency": 35,
->>>>>>> local
+        "frecency": 34,
         "guid": "gV99l2LZ_EbB",
         "hidden": 0,
         "id": 167,
@@ -3821,11 +3175,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 166,
-=======
-        "frecency": 162,
->>>>>>> local
+        "frecency": 158,
         "guid": "Pn_wIwiV4tjP",
         "hidden": 0,
         "id": 168,
@@ -3844,11 +3194,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 22,
-=======
-        "frecency": 21,
->>>>>>> local
+        "frecency": 20,
         "guid": "lQFJPIrmrOkW",
         "hidden": 1,
         "id": 169,
@@ -3867,11 +3213,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 94,
-=======
-        "frecency": 92,
->>>>>>> local
+        "frecency": 90,
         "guid": "1VwHpTdqCeae",
         "hidden": 0,
         "id": 170,
@@ -3890,11 +3232,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 24,
-=======
-        "frecency": 23,
->>>>>>> local
+        "frecency": 22,
         "guid": "JEX4A9nHzGwW",
         "hidden": 1,
         "id": 171,
@@ -3913,11 +3251,7 @@
     {
         "description": "Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 98,
-=======
-        "frecency": 96,
->>>>>>> local
+        "frecency": 94,
         "guid": "AOXRBbZ8WAVr",
         "hidden": 0,
         "id": 172,
@@ -3936,11 +3270,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 98,
-=======
-        "frecency": 96,
->>>>>>> local
+        "frecency": 94,
         "guid": "hzQyp9B4E6y4",
         "hidden": 0,
         "id": 173,
@@ -3959,11 +3289,7 @@
     {
         "description": "This example shows how to remove Gaussian noise from an RGB image using a denoising convolutional neural network.",
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 98,
-=======
-        "frecency": 96,
->>>>>>> local
+        "frecency": 94,
         "guid": "tfI-aXSDvQzI",
         "hidden": 0,
         "id": 174,
@@ -3982,11 +3308,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 98,
-=======
-        "frecency": 96,
->>>>>>> local
+        "frecency": 94,
         "guid": "GWdYja6F1fQT",
         "hidden": 0,
         "id": 175,
@@ -4005,11 +3327,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 98,
-=======
-        "frecency": 96,
->>>>>>> local
+        "frecency": 94,
         "guid": "82gyyxrAU5A5",
         "hidden": 0,
         "id": 176,
@@ -4028,11 +3346,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 98,
-=======
-        "frecency": 96,
->>>>>>> local
+        "frecency": 94,
         "guid": "2W9KcCsN_JBn",
         "hidden": 0,
         "id": 177,
@@ -4051,11 +3365,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 98,
-=======
-        "frecency": 96,
->>>>>>> local
+        "frecency": 94,
         "guid": "iIhxPVYX0VHH",
         "hidden": 0,
         "id": 178,
@@ -4074,11 +3384,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 98,
-=======
-        "frecency": 96,
->>>>>>> local
+        "frecency": 94,
         "guid": "Rfr35KCp30Ud",
         "hidden": 0,
         "id": 179,
@@ -4097,11 +3403,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 98,
-=======
-        "frecency": 96,
->>>>>>> local
+        "frecency": 94,
         "guid": "2ZSeWl1ru644",
         "hidden": 0,
         "id": 180,
@@ -4120,11 +3422,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 100,
-=======
-        "frecency": 98,
->>>>>>> local
+        "frecency": 96,
         "guid": "1SpC1JqCSojr",
         "hidden": 0,
         "id": 181,
@@ -4143,11 +3441,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 100,
-=======
-        "frecency": 98,
->>>>>>> local
+        "frecency": 96,
         "guid": "APvvwP6lMIh2",
         "hidden": 0,
         "id": 182,
@@ -4166,11 +3460,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 200,
-=======
-        "frecency": 195,
->>>>>>> local
+        "frecency": 190,
         "guid": "QLG2jGbntNVg",
         "hidden": 0,
         "id": 183,
@@ -4189,11 +3479,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 100,
-=======
-        "frecency": 98,
->>>>>>> local
+        "frecency": 96,
         "guid": "QaN2HKv3eCih",
         "hidden": 0,
         "id": 184,
@@ -4212,11 +3498,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 100,
-=======
-        "frecency": 98,
->>>>>>> local
+        "frecency": 96,
         "guid": "txJlNMRTcaiu",
         "hidden": 0,
         "id": 185,
@@ -4235,11 +3517,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 100,
-=======
-        "frecency": 98,
->>>>>>> local
+        "frecency": 96,
         "guid": "daHnUIPVA91s",
         "hidden": 0,
         "id": 186,
@@ -4258,11 +3536,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 25,
-=======
-        "frecency": 24,
->>>>>>> local
+        "frecency": 23,
         "guid": "-HnGHF05c6LR",
         "hidden": 1,
         "id": 187,
@@ -4281,11 +3555,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 25,
-=======
-        "frecency": 24,
->>>>>>> local
+        "frecency": 23,
         "guid": "GS8sCBFuFlkJ",
         "hidden": 1,
         "id": 188,
@@ -4304,11 +3574,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 40,
-=======
-        "frecency": 39,
->>>>>>> local
+        "frecency": 38,
         "guid": "KPtWLxy2bIhO",
         "hidden": 0,
         "id": 189,
@@ -4327,11 +3593,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 100,
-=======
-        "frecency": 98,
->>>>>>> local
+        "frecency": 96,
         "guid": "weAJzALV0LUV",
         "hidden": 0,
         "id": 190,
@@ -4350,11 +3612,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 25,
-=======
-        "frecency": 24,
->>>>>>> local
+        "frecency": 23,
         "guid": "l3rJottUiZS_",
         "hidden": 1,
         "id": 191,
@@ -4373,11 +3631,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 25,
-=======
-        "frecency": 24,
->>>>>>> local
+        "frecency": 23,
         "guid": "MbFmcHkRIZO5",
         "hidden": 1,
         "id": 192,
@@ -4396,11 +3650,7 @@
     {
         "description": null,
         "foreign_count": 0,
-<<<<<<< HEAD
-        "frecency": 25,
-=======
-        "frecency": 24,
->>>>>>> local
+        "frecency": 23,
         "guid": "6q_Dp0_6Y4Fs",
         "hidden": 1,
         "id": 193,
@@ -4414,8 +3664,6 @@
         "typed": 0,
         "url": "https://drive.google.com/nonceSigner?nonce=tjk1ir9mlfab0&continue=https://doc-10-a0-docs.googleusercontent.com/docs/securesc/ubd39slbu80ti0odtlufg2i3r1tvg550/r1j78mpu4tktlvmla50k8qrd9716h7tq/1679670675000/13859285068644888944/13591206886011172647Z/1iTP4SNaJj024zmYI1gBFQ7xAB_gkS7_9?e%3Ddownload%26uuid%3D82be2983-c1cc-4bf1-884d-1fe51d1bd53d&hash=i7pgf7r3tred7hgv83gvjm84cru0kb0b",
         "url_hash": 47357765341390,
-<<<<<<< HEAD
-=======
         "visit_count": 1
     },
     {
@@ -4440,7 +3688,7 @@
     {
         "description": null,
         "foreign_count": 0,
-        "frecency": 98,
+        "frecency": 96,
         "guid": "XVKKUftnlJQl",
         "hidden": 0,
         "id": 195,
@@ -4459,7 +3707,7 @@
     {
         "description": "Sci-Hub website. Get free access to academic journals. Download research papers for free from ScienceDirect, IEEE, Wiley, Springer, Nature and others",
         "foreign_count": 0,
-        "frecency": 200,
+        "frecency": 195,
         "guid": "SpXuWHOYK_5V",
         "hidden": 0,
         "id": 196,
@@ -4478,26 +3726,26 @@
     {
         "description": null,
         "foreign_count": 1,
-        "frecency": 200,
+        "frecency": 2364,
         "guid": "xDaRQQ1_Gr9n",
         "hidden": 0,
         "id": 197,
-        "last_visit_date": 1680028460558543,
+        "last_visit_date": 1680095408087955,
         "origin_id": 49,
         "preview_image_url": null,
-        "recalc_frecency": 1,
+        "recalc_frecency": 0,
         "rev_host": "es.buh-ics.",
         "site_name": null,
         "title": "Sci-Hub | Image inpainting based on deep learning: A review. Displays, 69, 102028 | 10.1016/j.displa.2021.102028",
-        "typed": 0,
+        "typed": 1,
         "url": "https://sci-hub.se/10.1016/j.displa.2021.102028",
         "url_hash": 47357215326881,
-        "visit_count": 2
+        "visit_count": 3
     },
     {
         "description": null,
         "foreign_count": 0,
-        "frecency": 100,
+        "frecency": 98,
         "guid": "nnXFL3VnymEw",
         "hidden": 0,
         "id": 198,
@@ -4516,7 +3764,7 @@
     {
         "description": null,
         "foreign_count": 0,
-        "frecency": 100,
+        "frecency": 98,
         "guid": "akaqlFuGeaKb",
         "hidden": 0,
         "id": 199,
@@ -4535,7 +3783,7 @@
     {
         "description": null,
         "foreign_count": 0,
-        "frecency": 100,
+        "frecency": 98,
         "guid": "gSRoKGtHZGtP",
         "hidden": 0,
         "id": 200,
@@ -4554,7 +3802,7 @@
     {
         "description": "Download Firefox extensions and themes. They’re like apps for your browser. They can block annoying ads, protect passwords, change browser appearance, and more.",
         "foreign_count": 0,
-        "frecency": 100,
+        "frecency": 98,
         "guid": "-0VH-5OJmqhL",
         "hidden": 0,
         "id": 201,
@@ -4573,7 +3821,7 @@
     {
         "description": null,
         "foreign_count": 0,
-        "frecency": 100,
+        "frecency": 98,
         "guid": "MvK-5CXqvozL",
         "hidden": 0,
         "id": 202,
@@ -4590,23 +3838,763 @@
         "visit_count": 1
     },
     {
-        "description": null,
+        "description": "Download automaticDark - Time-Based Theme Changer for Firefox. Automatically change Firefox's theme based on the time.",
         "foreign_count": 0,
-        "frecency": 100,
+        "frecency": 98,
         "guid": "raoJAYTgAFyw",
         "hidden": 0,
         "id": 203,
         "last_visit_date": 1680095361480189,
         "origin_id": 9,
-        "preview_image_url": null,
+        "preview_image_url": "https://addons.mozilla.org/user-media/previews/full/249/249618.png?modified=1622132852",
         "recalc_frecency": 0,
         "rev_host": "gro.allizom.snodda.",
         "site_name": null,
-        "title": null,
+        "title": "automaticDark - Time-Based Theme Changer – Get this Extension for 🦊 Firefox (en-US)",
         "typed": 0,
         "url": "https://addons.mozilla.org/en-US/firefox/addon/automatic-dark/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=featured",
         "url_hash": 47357321708306,
->>>>>>> local
+        "visit_count": 1
+    },
+    {
+        "description": "Download Swift Selection Search for Firefox. Swiftly access your search engines in a popup panel when you select text in a webpage. Context menu also included!",
+        "foreign_count": 0,
+        "frecency": 98,
+        "guid": "I4Ri-od6gCvC",
+        "hidden": 0,
+        "id": 204,
+        "last_visit_date": 1680095378530755,
+        "origin_id": 9,
+        "preview_image_url": "https://addons.mozilla.org/user-media/previews/full/190/190418.png?modified=1622132312",
+        "recalc_frecency": 0,
+        "rev_host": "gro.allizom.snodda.",
+        "site_name": null,
+        "title": "Swift Selection Search – Get this Extension for 🦊 Firefox (en-US)",
+        "typed": 0,
+        "url": "https://addons.mozilla.org/en-US/firefox/addon/swift-selection-search/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=featured",
+        "url_hash": 47358905835051,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 2240,
+        "guid": "BhQ8vnxcoAse",
+        "hidden": 0,
+        "id": 205,
+        "last_visit_date": 1680126970109289,
+        "origin_id": 4,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.www.",
+        "site_name": null,
+        "title": "Google",
+        "typed": 1,
+        "url": "https://www.google.com/",
+        "url_hash": 47357433249528,
+        "visit_count": 4
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 24,
+        "guid": "zmEMMsfb2NZj",
+        "hidden": 1,
+        "id": 206,
+        "last_visit_date": 1680118844353104,
+        "origin_id": 42,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.stnuocca.",
+        "site_name": null,
+        "title": null,
+        "typed": 0,
+        "url": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ",
+        "url_hash": 47358830432163,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 24,
+        "guid": "SGzgg-X8SLHv",
+        "hidden": 1,
+        "id": 207,
+        "last_visit_date": 1680118844612914,
+        "origin_id": 42,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.stnuocca.",
+        "site_name": null,
+        "title": null,
+        "typed": 0,
+        "url": "https://accounts.google.com/InteractiveLogin?continue=https://www.google.com/&ec=GAZAmgQ&hl=en&passive=true&ifkv=AQMjQ7Sz7XZBoGRD7etfafyXZG0RuQ4DdmlICLAjF6qaJOtKR1pP_5OfEqAFl6Gjunm-p-LWdbwGaQ",
+        "url_hash": 47357842925776,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 39,
+        "guid": "CWreblgHGjT_",
+        "hidden": 0,
+        "id": 208,
+        "last_visit_date": 1680118844816949,
+        "origin_id": 42,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.stnuocca.",
+        "site_name": null,
+        "title": "Sign in - Google Accounts",
+        "typed": 0,
+        "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-435735444%3A1680118844739018&continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=AQMjQ7Q1SeQkXUuU1R8uXPe3sfduwaxxQh-TGjIYyVl-KlWCU9t2zsU9GuHfwkWnI0U8ZTFoBXsFUQ&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin",
+        "url_hash": 47359194607322,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 98,
+        "guid": "JRJoLug3zLAR",
+        "hidden": 0,
+        "id": 209,
+        "last_visit_date": 1680118922792052,
+        "origin_id": 42,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.stnuocca.",
+        "site_name": null,
+        "title": "Sign in - Google Accounts",
+        "typed": 0,
+        "url": "https://accounts.google.com/v3/signin/challenge/pwd?TL=ADBc5UMdwp84CrEF4HwXpN3YGlN9ZhLh7LtfFaRue6B9C_P9k9kUPWrioCOG7vRs&checkConnection=youtube%3A217%3A1&checkedDomains=youtube&cid=1&continue=https%3A%2F%2Fwww.google.com%2F&dsh=S-435735444%3A1680118844739018&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=en&ifkv=AQMjQ7Q1SeQkXUuU1R8uXPe3sfduwaxxQh-TGjIYyVl-KlWCU9t2zsU9GuHfwkWnI0U8ZTFoBXsFUQ&pstMsg=1",
+        "url_hash": 47359275529095,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 98,
+        "guid": "PU7ejmBjF89W",
+        "hidden": 0,
+        "id": 210,
+        "last_visit_date": 1680118940794334,
+        "origin_id": 42,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.stnuocca.",
+        "site_name": null,
+        "title": "Sign in - Google Accounts",
+        "typed": 0,
+        "url": "https://accounts.google.com/v3/signin/challenge/dp?TL=ADBc5UMdwp84CrEF4HwXpN3YGlN9ZhLh7LtfFaRue6B9C_P9k9kUPWrioCOG7vRs&checkConnection=youtube%3A217%3A1&checkedDomains=youtube&cid=6&continue=https%3A%2F%2Fwww.google.com%2F&dsh=S-435735444%3A1680118844739018&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=en&ifkv=AQMjQ7Q1SeQkXUuU1R8uXPe3sfduwaxxQh-TGjIYyVl-KlWCU9t2zsU9GuHfwkWnI0U8ZTFoBXsFUQ&pstMsg=1",
+        "url_hash": 47359729480344,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 24,
+        "guid": "wRLsbUZfVczi",
+        "hidden": 1,
+        "id": 211,
+        "last_visit_date": 1680118948659833,
+        "origin_id": 42,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.stnuocca.",
+        "site_name": null,
+        "title": null,
+        "typed": 0,
+        "url": "https://accounts.google.com/CheckCookie?continue=https://www.google.com/&hl=en&checkedDomains=youtube&checkConnection=youtube:217:1&pstMsg=1&flowName=GlifWebSignIn&ifkv=AQMjQ7Q1SeQkXUuU1R8uXPe3sfduwaxxQh-TGjIYyVl-KlWCU9t2zsU9GuHfwkWnI0U8ZTFoBXsFUQ&chtml=LoginDoneHtml&gidl=EgIIAA&flowEntry=ServiceLogin",
+        "url_hash": 47357693295018,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 24,
+        "guid": "Ozktx4kneAjv",
+        "hidden": 1,
+        "id": 212,
+        "last_visit_date": 1680118948968640,
+        "origin_id": 50,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.ebutuoy.stnuocca.",
+        "site_name": null,
+        "title": null,
+        "typed": 0,
+        "url": "https://accounts.youtube.com/accounts/SetSID?ssdc=1&sidt=ALWU2ctzXH7P7Qoc5hIZSpSX1BMHX9b4cxDD7FkIBXmeAl4t9qzYmPGSNNwJrF2ZC%2FgveIb4Dh28gGQnR0dA3cP4i1z9JsZFRPgntvLSZc1iWAPKP8BLijeL6uyhFo1BIJQRtdjLMWsClN1mhV7xC8Au4npT9EE3GNopOkKssRPJDo5LgBTq0zvocMhvzjAoCGx2LAriBPhtIjOcGYxG6rs9InZi0RO%2BYpNgzbp4ExNKMsRMb%2Feit7qrGoe0deUZ3ZvRlkwlYSE3jubniTeDsF8iVTCE4I7fq%2BhW2XJ1R0mZzDeY4ua%2BOoIIhPJ4WDM3uGPEHDhEov8lhBbE7bf%2BGM9kh%2FI4eqnFfMN21ep8zXbdnxG6FnFchpv0DWqok1rwAfyeWSjXmrDV50fuGg3%2BAx4%2FAjyr0cz0e2WdYbM5jzHBtuw0zy3AAa6XHV1ZIA8qtZ0hTHKUxQXnx%2FKE%2Bi7h%2FdZ%2BXnbg5fjQEg%3D%3D&continue=https%3A%2F%2Fwww.google.com%2F&tcc=1&dbus=IN",
+        "url_hash": 47359345790899,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 24,
+        "guid": "5-rLllfqU96p",
+        "hidden": 1,
+        "id": 213,
+        "last_visit_date": 1680118949405508,
+        "origin_id": 51,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "ni.oc.elgoog.stnuocca.",
+        "site_name": null,
+        "title": null,
+        "typed": 0,
+        "url": "https://accounts.google.co.in/accounts/SetSID?ssdc=1&sidt=ALWU2cso/xwrmpd/EhCurE%2Bu4wO6%2BlTaL95kuctpgCtoqJWI3y7NSXkqfl%2BqhNe3d0Z/fFYgF7nrJqtJhbM77p/7YA9U8ZPRbebf8FEnsXvBi7VBUnEI4kbXUTElvAt7I4nLIu/rCsGRcoCzPPnWieV7/nv6VhFpbi4kO47JheXa0RXg/%2BSRf0YOfye25gD5XnO2RQLMOJcpqp%2BCybAtRVWNwtrTeekL0Nzpg6NGfvCiMn%2Bj52pvtoKAM/hFrjYdvR9v/NmTLcb1RJCnz89a9zzZTVy0Q6Y99laVk1Z/EceklXZ40Y2oMLlj6qjuDvShpQS5CMebPh7rygMaxyNRXCQkr1pJamyGUB7ql3UhQt%2BnmX/1kHQosO1NG4KlHaWXkFJXaDrfZD2aSipfxGU2/pax0HVuyTkEEjJD9L%2BfosvfpPcyp0ewOVOaJ3pAyeSBVt/kdYl%2BCdc/41jpm8VH6CjKDWNXHFKbQg%3D%3D&continue=https://www.google.com/&tcc=1",
+        "url_hash": 47358468681969,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 24,
+        "guid": "CNdGUrg1TeQM",
+        "hidden": 1,
+        "id": 214,
+        "last_visit_date": 1680118955746028,
+        "origin_id": 47,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.evird.",
+        "site_name": null,
+        "title": null,
+        "typed": 0,
+        "url": "https://drive.google.com/?authuser=0",
+        "url_hash": 47356462485909,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 24,
+        "guid": "GDKB24Lj5t3_",
+        "hidden": 1,
+        "id": 215,
+        "last_visit_date": 1680118955990351,
+        "origin_id": 42,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.stnuocca.",
+        "site_name": null,
+        "title": null,
+        "typed": 0,
+        "url": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/?authuser%3D0&followup=https://drive.google.com/?authuser%3D0&emr=1&authuser=0",
+        "url_hash": 47358624770334,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 24,
+        "guid": "oS6XyEihP9DQ",
+        "hidden": 1,
+        "id": 216,
+        "last_visit_date": 1680118956161169,
+        "origin_id": 47,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.evird.",
+        "site_name": null,
+        "title": null,
+        "typed": 0,
+        "url": "https://drive.google.com/accounts/SetOSID?authuser=0&continue=https://drive.google.com/?authuser%3D0%26pli%3D1&osidt=ALWU2cvY1i7I0xfwDy0ELRKaIbM4jb0-CmKRS8sldAGb2i7BWEsVXCkD_pt6CQvM8eXW8ST8ZzOC41nQuTXWE913u9g8H07irDQGwBJ0ps7B1UQ0zza5NBmBCiYWJ4ZoRkyL5oZTqz8KfjEPB854W1x-IHVsmQc4sib-jpoSs-EQk0xwn9nbQP4DuAAut0LtMJfcptT3sQR6uYzvpFKXHR8qQAOOo5vZFlI7JV2BF1ulXca4sthaoKE&ifkv=AQMjQ7QLqUeboiTOinR3KXU6gSkWlFb48Uj7-9eOo1LUlKsSDP6wd-YIj2fMRGmn8IYx_VyqNPLp",
+        "url_hash": 47359289956682,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 24,
+        "guid": "Q5Q4TK-7f35n",
+        "hidden": 1,
+        "id": 217,
+        "last_visit_date": 1680118956564643,
+        "origin_id": 47,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.evird.",
+        "site_name": null,
+        "title": null,
+        "typed": 0,
+        "url": "https://drive.google.com/?authuser=0&pli=1",
+        "url_hash": 47359776140574,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 39,
+        "guid": "6PfwdzMgR7I9",
+        "hidden": 0,
+        "id": 218,
+        "last_visit_date": 1680118957083543,
+        "origin_id": 47,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.evird.",
+        "site_name": null,
+        "title": "Google Drive",
+        "typed": 0,
+        "url": "https://drive.google.com/drive/?pli=1",
+        "url_hash": 47358263308556,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 98,
+        "guid": "M2wTSzpl6RXf",
+        "hidden": 0,
+        "id": 219,
+        "last_visit_date": 1680118960834105,
+        "origin_id": 47,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.evird.",
+        "site_name": null,
+        "title": "Google Drive",
+        "typed": 0,
+        "url": "https://drive.google.com/drive/",
+        "url_hash": 47359123609106,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 98,
+        "guid": "cuJu29jwjxk0",
+        "hidden": 0,
+        "id": 220,
+        "last_visit_date": 1680118963102809,
+        "origin_id": 47,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.evird.",
+        "site_name": null,
+        "title": "My Drive - Google Drive",
+        "typed": 0,
+        "url": "https://drive.google.com/drive/my-drive",
+        "url_hash": 47356688553801,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 98,
+        "guid": "saijh4xXtmdV",
+        "hidden": 0,
+        "id": 221,
+        "last_visit_date": 1680118969557961,
+        "origin_id": 4,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.www.",
+        "site_name": null,
+        "title": "goo\\ - Google Search",
+        "typed": 1,
+        "url": "https://www.google.com/search?client=firefox-b-d&q=goo%5C",
+        "url_hash": 47356939539963,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 24,
+        "guid": "qVkV7Pcwp07O",
+        "hidden": 1,
+        "id": 222,
+        "last_visit_date": 1680118971832407,
+        "origin_id": 52,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.",
+        "site_name": null,
+        "title": null,
+        "typed": 0,
+        "url": "https://google.com/",
+        "url_hash": 47357427790110,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 1950,
+        "guid": "GTDA-lws5SHj",
+        "hidden": 0,
+        "id": 223,
+        "last_visit_date": 1680118986983354,
+        "origin_id": 53,
+        "preview_image_url": "https://colab.research.google.com/img/colab_favicon_256px.png",
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.hcraeser.baloc.",
+        "site_name": null,
+        "title": "denoisemain.ipynb - Colaboratory",
+        "typed": 1,
+        "url": "https://colab.research.google.com/drive/1n8cbul10qk6XvVD93e45jnY7y1QOrKxv?usp=sharing",
+        "url_hash": 47357637384981,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 195,
+        "guid": "vzQgq9qgdQP7",
+        "hidden": 0,
+        "id": 224,
+        "last_visit_date": 1680119272809053,
+        "origin_id": 53,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.hcraeser.baloc.",
+        "site_name": null,
+        "title": "denoisemain.ipynb - Colaboratory",
+        "typed": 0,
+        "url": "https://colab.research.google.com/drive/1n8cbul10qk6XvVD93e45jnY7y1QOrKxv?usp=sharing#scrollTo=MMK4XO_TkJK2",
+        "url_hash": 47357667411897,
+        "visit_count": 2
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 98,
+        "guid": "89kt2PfJjHEZ",
+        "hidden": 0,
+        "id": 225,
+        "last_visit_date": 1680119074188005,
+        "origin_id": 53,
+        "preview_image_url": "https://colab.research.google.com/img/colab_favicon_256px.png",
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.hcraeser.baloc.",
+        "site_name": null,
+        "title": "denoisemain.ipynb - Colaboratory",
+        "typed": 0,
+        "url": "https://colab.research.google.com/drive/1n8cbul10qk6XvVD93e45jnY7y1QOrKxv?usp=sharing#scrollTo=bJiPi1gLhquL",
+        "url_hash": 47357301814081,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 98,
+        "guid": "ECYRCZliPutQ",
+        "hidden": 0,
+        "id": 226,
+        "last_visit_date": 1680119248478683,
+        "origin_id": 53,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.hcraeser.baloc.",
+        "site_name": null,
+        "title": "denoisemain.ipynb - Colaboratory",
+        "typed": 0,
+        "url": "https://colab.research.google.com/drive/1n8cbul10qk6XvVD93e45jnY7y1QOrKxv?usp=sharing#scrollTo=di4S8wnLkIVn",
+        "url_hash": 47357688966395,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 98,
+        "guid": "xZ_K3wY84qXf",
+        "hidden": 0,
+        "id": 227,
+        "last_visit_date": 1680119294038267,
+        "origin_id": 53,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.hcraeser.baloc.",
+        "site_name": null,
+        "title": "denoisemain.ipynb - Colaboratory",
+        "typed": 0,
+        "url": "https://colab.research.google.com/drive/1n8cbul10qk6XvVD93e45jnY7y1QOrKxv?usp=sharing#scrollTo=HrTEQUDAkJO4",
+        "url_hash": 47359366139637,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 98,
+        "guid": "HnGhJmI2ssWE",
+        "hidden": 0,
+        "id": 228,
+        "last_visit_date": 1680119296889046,
+        "origin_id": 53,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.hcraeser.baloc.",
+        "site_name": null,
+        "title": "denoisemain.ipynb - Colaboratory",
+        "typed": 0,
+        "url": "https://colab.research.google.com/drive/1n8cbul10qk6XvVD93e45jnY7y1QOrKxv?usp=sharing#scrollTo=4UCBlT93kJRv",
+        "url_hash": 47359548342010,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "E_so4P_teeVv",
+        "hidden": 0,
+        "id": 229,
+        "last_visit_date": 1680120624135869,
+        "origin_id": 53,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.hcraeser.baloc.",
+        "site_name": null,
+        "title": "denoisemain.ipynb - Colaboratory",
+        "typed": 0,
+        "url": "https://colab.research.google.com/drive/1n8cbul10qk6XvVD93e45jnY7y1QOrKxv?usp=sharing#scrollTo=pnle6HyMkUnb",
+        "url_hash": 47357693410154,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "KQ-_qvo2BuG5",
+        "hidden": 0,
+        "id": 230,
+        "last_visit_date": 1680120627921737,
+        "origin_id": 53,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.hcraeser.baloc.",
+        "site_name": null,
+        "title": "denoisemain.ipynb - Colaboratory",
+        "typed": 0,
+        "url": "https://colab.research.google.com/drive/1n8cbul10qk6XvVD93e45jnY7y1QOrKxv?usp=sharing#scrollTo=j9d-qJ__kYXY",
+        "url_hash": 47360013103883,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "XjciIVyQAwkO",
+        "hidden": 0,
+        "id": 231,
+        "last_visit_date": 1680120808891314,
+        "origin_id": 53,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.hcraeser.baloc.",
+        "site_name": null,
+        "title": "denoisemain.ipynb - Colaboratory",
+        "typed": 0,
+        "url": "https://colab.research.google.com/drive/1n8cbul10qk6XvVD93e45jnY7y1QOrKxv?usp=sharing#scrollTo=4hOBhw4XrIVl",
+        "url_hash": 47357884542406,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "Cdh1-XHCSDGM",
+        "hidden": 0,
+        "id": 232,
+        "last_visit_date": 1680123290684643,
+        "origin_id": 53,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.hcraeser.baloc.",
+        "site_name": null,
+        "title": "denoisemain.ipynb - Colaboratory",
+        "typed": 0,
+        "url": "https://colab.research.google.com/drive/1n8cbul10qk6XvVD93e45jnY7y1QOrKxv?usp=sharing#scrollTo=AVNRvXBJtDh3",
+        "url_hash": 47360180864499,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "ENtcYPfL_r5s",
+        "hidden": 0,
+        "id": 233,
+        "last_visit_date": 1680123295794319,
+        "origin_id": 53,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.hcraeser.baloc.",
+        "site_name": null,
+        "title": "denoisemain.ipynb - Colaboratory",
+        "typed": 0,
+        "url": "https://colab.research.google.com/drive/1n8cbul10qk6XvVD93e45jnY7y1QOrKxv?usp=sharing#scrollTo=9_W6UT32JvgO",
+        "url_hash": 47359772839450,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "SpPYvaYSeypU",
+        "hidden": 0,
+        "id": 234,
+        "last_visit_date": 1680126969636600,
+        "origin_id": 42,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.stnuocca.",
+        "site_name": null,
+        "title": "Google Accounts",
+        "typed": 0,
+        "url": "https://accounts.google.com/Logout?hl=en&continue=https://www.google.com/&timeStmp=1680118972&secTok=.AG5fkS-mKXnZBm3m4tI84zOLvBuHRi5GaQ&ec=GAdAmgQ&hl=en",
+        "url_hash": 47357031491787,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "Fe2cwBnWFTk_",
+        "hidden": 0,
+        "id": 235,
+        "last_visit_date": 1680126969666946,
+        "origin_id": 42,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.stnuocca.",
+        "site_name": null,
+        "title": "Google Accounts",
+        "typed": 0,
+        "url": "https://accounts.google.com/Logout",
+        "url_hash": 47358366876397,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "cBaHiQxxbMqd",
+        "hidden": 0,
+        "id": 236,
+        "last_visit_date": 1680372052079429,
+        "origin_id": 4,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.www.",
+        "site_name": null,
+        "title": "search something - Google Search",
+        "typed": 1,
+        "url": "https://www.google.com/search?client=firefox-b-d&q=search+something+",
+        "url_hash": 47359409176806,
+        "visit_count": 1
+    },
+    {
+        "description": "to look into or over carefully or thoroughly in an effort to find or discover something: such as; to examine in seeking something; to look through or explore by inspecting possible places of concealment or investigating suspicious circumstances… See the fu",
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "iJ9ZkJQ5JziK",
+        "hidden": 0,
+        "id": 237,
+        "last_visit_date": 1680372055382775,
+        "origin_id": 54,
+        "preview_image_url": "https://merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png",
+        "recalc_frecency": 0,
+        "rev_host": "moc.retsbew-mairrem.www.",
+        "site_name": null,
+        "title": "Search Definition & Meaning - Merriam-Webster",
+        "typed": 0,
+        "url": "https://www.merriam-webster.com/dictionary/search",
+        "url_hash": 47356338341426,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "d7DAVsQhCvrU",
+        "hidden": 0,
+        "id": 238,
+        "last_visit_date": 1680372067130989,
+        "origin_id": 4,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.www.",
+        "site_name": null,
+        "title": "what am i searching for - Google Search",
+        "typed": 1,
+        "url": "https://www.google.com/search?client=firefox-b-d&q=what+am+i+searching+for",
+        "url_hash": 47356646719991,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "VBXWzyz1wm46",
+        "hidden": 0,
+        "id": 239,
+        "last_visit_date": 1680372078204413,
+        "origin_id": 4,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.www.",
+        "site_name": null,
+        "title": "download - Google Search",
+        "typed": 1,
+        "url": "https://www.google.com/search?client=firefox-b-d&q=download",
+        "url_hash": 47359042404482,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "-2iSoKIPbDun",
+        "hidden": 0,
+        "id": 240,
+        "last_visit_date": 1680372085924773,
+        "origin_id": 4,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.www.",
+        "site_name": null,
+        "title": "download images - Google Search",
+        "typed": 0,
+        "url": "https://www.google.com/search?q=download+images&client=firefox-b-d&ei=bnEoZMq5Dc3L-QaGiYb4CA&ved=0ahUKEwjKqMDmoYn-AhXNZd4KHYaEAY8Q4dUDCA4&uact=5&oq=download+images&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzILCAAQigUQsQMQkQIyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6CggAEEcQ1gQQsAM6CggAEIoFELADEEM6CwgAEIAEELEDEIMBOgoIABCKBRCxAxBDOgQIABADOgcIABCKBRBDOgsIABCKBRCxAxCDAToICAAQigUQkQI6DggAEIoFELEDEIMBEJECSgQIQRgAUNIBWLwKYO4LaAFwAXgAgAHAA4gBrQuSAQkwLjUuMS4wLjGYAQCgAQHIAQrAAQE&sclient=gws-wiz-serp",
+        "url_hash": 47357143984356,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "NgUmsLaXIeas",
+        "hidden": 0,
+        "id": 241,
+        "last_visit_date": 1680372088270779,
+        "origin_id": 4,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.www.",
+        "site_name": null,
+        "title": "download images - Google Search",
+        "typed": 0,
+        "url": "https://www.google.com/search?q=download+images&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjPsJXqoYn-AhWWbN4KHXVnA5kQ_AUoAXoECAEQAw&biw=1440&bih=815&dpr=2",
+        "url_hash": 47356375564503,
+        "visit_count": 1
+    },
+    {
+        "description": null,
+        "foreign_count": 0,
+        "frecency": 100,
+        "guid": "0alMoLx5MC_Y",
+        "hidden": 0,
+        "id": 242,
+        "last_visit_date": 1680372091665022,
+        "origin_id": 4,
+        "preview_image_url": null,
+        "recalc_frecency": 0,
+        "rev_host": "moc.elgoog.www.",
+        "site_name": null,
+        "title": "download images - Google Search",
+        "typed": 0,
+        "url": "https://www.google.com/search?q=download+images&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjPsJXqoYn-AhWWbN4KHXVnA5kQ_AUoAXoECAEQAw&biw=1440&bih=815&dpr=2#imgrc=TIFDFVotWiUOnM",
+        "url_hash": 47357487017970,
         "visit_count": 1
     }
 ]
